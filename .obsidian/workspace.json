@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "faefe2ee03d32b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a58de00feba9bf81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bc74a2fd1dc564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Control/Git/Generating a new SSH key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80dc798c28e153e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "300e81126477c921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce0ba7ee9b9ced0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acc8dcb69e1f93b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f9806152ef65160",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f56b9d380d56abf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "8adbba1ad5a11dcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e94797703fdccf",
+        "type": "tabs",
+        "dimension": 73.65384615384616,
+        "children": [
+          {
+            "id": "8fe0b4c26d5109f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Source Control/Git/Generating a new SSH key.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdf3b089bb43140a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Source Control/Git/Generating a new SSH key.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a5ba9b0a7ec64bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Source Control/Git/Generating a new SSH key.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9bb4ddc7042784b5",
+        "type": "tabs",
+        "dimension": 26.346153846153847,
+        "children": [
+          {
+            "id": "4fb89ad2612bf093",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "publish:發佈變動內容": false
+    }
+  },
+  "active": "57bc74a2fd1dc564",
+  "lastOpenFiles": [
+    "Archives/Images/Pasted image 20230720003250.png",
+    "Source Control/Git/Generating a new SSH key.md",
+    "Archives/Images/Pasted image 20230720003332.png",
+    "Archives/Images/Pasted image 20230720003313.png",
+    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+    "未命名.md",
+    "Obsidian",
+    "README.md",
+    "Archives/Images/Pasted image 20230718235838.png",
+    "Archives/Images/Pasted image 20230719000304.png",
+    "Archives/Images/Pasted image 20230719000217.png",
+    "Archives/Images/Pasted image 20230719000152.png",
+    "Archives/Images/Pasted image 20230719000127.png",
+    "Archives/Images/Pasted image 20230719000020.png",
+    "Archives/Images/Pasted image 20230718235854.png",
+    "Archives/Templates/Note 1 - Template.md",
+    "Mobile App/Flutter",
+    "Mobile App",
+    "Unreal Engine",
+    "202307160223.md",
+    "未命名.canvas",
+    "conflict-files-obsidian-git.md",
+    "Unreal Engine/Programming & Scripting/Socket多線程TCP通信.md",
+    "Python/使用Selenium自動化登入.md",
+    "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md",
+    "().md",
+    "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png.md",
+    "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png 1.md",
+    "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png 2.md"
+  ]
+}
