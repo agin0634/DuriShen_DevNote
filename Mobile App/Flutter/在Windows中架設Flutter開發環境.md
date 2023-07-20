@@ -31,7 +31,7 @@ git clone -b master https://github.com/flutter/flutter.git
 ![[Pasted image 20230719000152.png]]
 
 再到 Android Studio>Plugins 安裝 Flutter ，同時還會安裝 Dart
-![[Pasted image 20230719000217.png]]
+![Pasted image 20230719000217](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/ImagesPasted%20image%2020230719000217.png?token=AGFDTP77YSW2HULXILYQF73EXF22C)
 
 <br>
 
