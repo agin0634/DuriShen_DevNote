@@ -16,6 +16,8 @@ git clone -b master https://github.com/flutter/flutter.git
 ![[Pasted image 20230718235838.png]]
 ![[Pasted image 20230718235854.png || 500x500]]
 
+<br>
+
 ## 安裝 Android Studio
 
 透過 `flutter doctor` 來診斷環境，由顯示的訊息可知我們還需安裝 Android SDK 和 Android Studio
@@ -30,6 +32,8 @@ git clone -b master https://github.com/flutter/flutter.git
 
 再到 Android Studio>Plugins 安裝 Flutter ，同時還會安裝 Dart
 ![[Pasted image 20230719000217.png]]
+
+<br>
 
 ## Visual Studio Code 設定
 啟動 VS Code ，點選擴充功能並安裝 `Flutter` 和 `Android iOS Emulator` ， Dart 會和 Flutter 同時被安裝
