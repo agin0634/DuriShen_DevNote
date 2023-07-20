@@ -37,4 +37,4 @@ git clone -b master https://github.com/flutter/flutter.git
 
 ## Visual Studio Code 設定
 啟動 VS Code ，點選擴充功能並安裝 `Flutter` 和 `Android iOS Emulator` ， Dart 會和 Flutter 同時被安裝
-![[Pasted image 20230719000304.png]]
+![Pasted image 2023071900030d4](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%202023071900030d4.png?token=AGFDTP7NMIQC5MMESE6OR5TEXF4O4)
