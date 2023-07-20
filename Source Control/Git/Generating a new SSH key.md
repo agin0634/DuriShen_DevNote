@@ -8,6 +8,8 @@ ssh-keygen 生成ssh
 $ ssh-keygen
 ```
 
+<img src="./Archives/Images/Pasted image 20230720003250.png" width="100%" />
+
 ![[Pasted image 20230720003250.png]]
 
 進到.ssh/目錄 ls可看到 私鑰、公鑰
