@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/VR HMD/未命名.md",
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/VR HMD/未命名.md",
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/VR HMD/未命名.md",
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/VR HMD/未命名.md"
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md"
               }
             }
           },
@@ -179,7 +179,7 @@
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
     "Source Control/Git/Generating a new SSH key.md",
-    "Hardware/VR HMD/未命名.md",
+    "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Hardware/VR HMD",
     "Hardware",
     "README.md",
