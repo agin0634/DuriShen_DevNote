@@ -25,10 +25,10 @@ git clone -b master https://github.com/flutter/flutter.git
 [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio?gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO3zEhdK4_I0CEZic3UH4dl-9gVXuHFR9dCl3TOHKjmv3xWLU3UxfhYaApfAEALw_wcB&gclsrc=aw.ds)
 
 安裝完 Android SDK 和 Android Studio 後，新增環境變數 ANDROID_HOME，並將變數值設定為 SDK 存放路徑
-![Pasted image 20230719000127](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000127.png?token=AGFDTP7IAXD5TBV34HJ5BX3EXF4L2)
+![Pasted image 20230719000127](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000127.png)
 
 再透過 flutter doctor --android -licenses 指令同意一些授權
-![Pasted image 20230719000152](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000152.png?token=AGFDTP3AJOTO5646YYYGMNDEXF4NA)
+![Pasted image 20230719000152](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000152.png)
 
 再到 Android Studio>Plugins 安裝 Flutter ，同時還會安裝 Dart
 ![ImagesPasted image 20230719000f217](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/ImagesPasted%20image%2020230719000f217.png)
@@ -37,4 +37,4 @@ git clone -b master https://github.com/flutter/flutter.git
 
 ## Visual Studio Code 設定
 啟動 VS Code ，點選擴充功能並安裝 `Flutter` 和 `Android iOS Emulator` ， Dart 會和 Flutter 同時被安裝
-![Pasted image 2023071900030d4](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%202023071900030d4.png?token=AGFDTP7NMIQC5MMESE6OR5TEXF4O4)
+![Pasted image 2023071900030d4](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%202023071900030d4.png)
