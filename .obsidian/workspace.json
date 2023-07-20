@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -169,13 +173,15 @@
       "random-note:開始漫遊筆記": false,
       "audio-recorder:開始/停止錄音": false,
       "workspaces:管理工作區配置": false,
-      "publish:發佈變動內容": false
+      "publish:發佈變動內容": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6ce0ba7ee9b9ced0",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.md",
     "未命名.md",
+    "README.md",
     "Archives/Templates/Note 1 - Template.md",
     "202307210112.md",
     "202307210111.md",
