@@ -9,5 +9,18 @@ tags : Hardware VR Vive
 
 >\steamapps\common\SteamVR\drivers\null\resources\settings\
 
-
 修改`default.vrsettings
+```
+"enable" : true,
+```
+
+接著，前往
+
+>\steamapps\common\SteamVR\resources\settings
+
+修改`default.vrsettings`
+```
+"requireHmd": false,
+"forcedDriver": "null",
+"activateMultipleDrivers": true,
+```
