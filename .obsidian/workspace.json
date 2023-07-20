@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Archives/Templates/Note 1 - Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,8 +172,9 @@
       "publish:發佈變動內容": false
     }
   },
-  "active": "57bc74a2fd1dc564",
+  "active": "6ce0ba7ee9b9ced0",
   "lastOpenFiles": [
+    "README.md",
     "未命名.md",
     "Archives/Templates/Note 1 - Template.md",
     "202307210112.md",
@@ -188,7 +185,6 @@
     "Archives/Images/Pasted image 20230721010737.png",
     "Hardware/VR HMD",
     "Hardware",
-    "README.md",
     "Unreal Engine/test.md",
     "Archives/Images/Pasted image 20230720003332.png",
     "Archives/Images/Pasted image 20230720003313.png",
