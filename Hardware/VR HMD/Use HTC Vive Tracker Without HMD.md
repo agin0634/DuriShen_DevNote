@@ -9,11 +9,12 @@ tags : Hardware VR Vive
 
 >\steamapps\common\SteamVR\drivers\null\resources\settings\
 
-<br></br>
 修改`default.vrsettings
 ```
 "enable" : true,
 ```
+
+<br>
 
 接著，前往
 
@@ -25,6 +26,8 @@ tags : Hardware VR Vive
 "forcedDriver": "null",
 "activateMultipleDrivers": true,
 ```
+
+<br>
 
 ## 開啟SteamVR並連結Tracker
 
