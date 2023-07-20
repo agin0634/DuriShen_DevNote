@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
-                "mode": "preview",
+                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
+                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
+                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md"
+                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Archives/Images/ImagesPasted image 20230721010737.png",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Archives/Pasted image 20230720003332.png",
@@ -190,8 +191,6 @@
     "Archives/Pasted image 20230719000127.png",
     "Archives/Pasted image 20230719000020.png",
     "Archives/Pasted image 20230718235854.png",
-    "Archives/Pasted image 20230718235838.png",
-    "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Source Control/Git/Generating a new SSH key.md",
     "README.md",
     "Unreal Engine/Untitled.md",
