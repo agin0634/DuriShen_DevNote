@@ -21,7 +21,7 @@ git clone -b master https://github.com/flutter/flutter.git
 ## 安裝 Android Studio
 
 透過 `flutter doctor` 來診斷環境，由顯示的訊息可知我們還需安裝 Android SDK 和 Android Studio
-![Pasted image 20230719000020](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000020.png?token=AGFDTP2DYTMKBP52RWUD5U3EXF4KW)
+![Pasted image 20230719000020](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000020.png)
 [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio?gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO3zEhdK4_I0CEZic3UH4dl-9gVXuHFR9dCl3TOHKjmv3xWLU3UxfhYaApfAEALw_wcB&gclsrc=aw.ds)
 
 安裝完 Android SDK 和 Android Studio 後，新增環境變數 ANDROID_HOME，並將變數值設定為 SDK 存放路徑
@@ -31,7 +31,7 @@ git clone -b master https://github.com/flutter/flutter.git
 ![Pasted image 20230719000152](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000152.png?token=AGFDTP3AJOTO5646YYYGMNDEXF4NA)
 
 再到 Android Studio>Plugins 安裝 Flutter ，同時還會安裝 Dart
-![ImagesPasted image 20230719000f217](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/ImagesPasted%20image%2020230719000f217.png?token=AGFDTP6EWX7ZMQSC2W22ZG3EXF4WA)
+![ImagesPasted image 20230719000f217](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/ImagesPasted%20image%2020230719000f217.png)
 
 <br>
 
