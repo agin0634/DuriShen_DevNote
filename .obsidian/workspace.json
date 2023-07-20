@@ -11,8 +11,12 @@
             "id": "57bc74a2fd1dc564",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Archives/Templates/Note 1 - Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -170,6 +174,8 @@
   },
   "active": "6ce0ba7ee9b9ced0",
   "lastOpenFiles": [
+    "Archives/Templates/Note 1 - Template.md",
+    "未命名.md",
     "202307210112.md",
     "202307210111.md",
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
@@ -189,9 +195,7 @@
     "Archives/Images/Pasted image 20230719000127.png",
     "Archives/Images/Pasted image 20230719000020.png",
     "Archives/Images/Pasted image 20230718235838.png",
-    "未命名.md",
     "Obsidian",
-    "Archives/Templates/Note 1 - Template.md",
     "Mobile App/Flutter",
     "Mobile App",
     "Unreal Engine",
