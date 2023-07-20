@@ -14,14 +14,14 @@ git clone -b master https://github.com/flutter/flutter.git
 
 解壓縮後將 flutter 內的 bin 資料夾路徑加到環境變數 `Path` 內
 ![Pasted image 20230718235838](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230718235838.png?token=AGFDTPZPFHKLRHLIJKTGNQTEXF336)
-
+![Pasted image 2023071823585f4](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%202023071823585f4.png?token=AGFDTP53DM55EY52EUBC5DLEXF4JM)
 
 <br>
 
 ## 安裝 Android Studio
 
 透過 `flutter doctor` 來診斷環境，由顯示的訊息可知我們還需安裝 Android SDK 和 Android Studio
-![[Pasted image 20230719000020.png]]
+![Pasted image 20230719000020](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230719000020.png?token=AGFDTP2DYTMKBP52RWUD5U3EXF4KW)
 [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio?gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO3zEhdK4_I0CEZic3UH4dl-9gVXuHFR9dCl3TOHKjmv3xWLU3UxfhYaApfAEALw_wcB&gclsrc=aw.ds)
 
 安裝完 Android SDK 和 Android Studio 後，新增環境變數 ANDROID_HOME，並將變數值設定為 SDK 存放路徑
