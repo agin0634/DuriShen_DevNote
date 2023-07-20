@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
-                "mode": "preview",
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md"
+                "file": "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md"
               }
             }
           },
@@ -178,10 +178,10 @@
   },
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Source Control/Git/Generating a new SSH key.md",
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Archives/Images/Pasted image 20230721010737.png",
-    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Hardware/VR HMD",
     "Hardware",
     "README.md",

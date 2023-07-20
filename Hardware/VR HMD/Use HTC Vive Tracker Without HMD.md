@@ -9,6 +9,7 @@ tags : Hardware VR Vive
 
 >\steamapps\common\SteamVR\drivers\null\resources\settings\
 
+<br></br>
 修改`default.vrsettings
 ```
 "enable" : true,
