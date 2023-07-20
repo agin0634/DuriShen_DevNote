@@ -14,7 +14,7 @@ git clone -b master https://github.com/flutter/flutter.git
 
 解壓縮後將 flutter 內的 bin 資料夾路徑加到環境變數 `Path` 內
 ![Pasted image 202307ff1823h5838](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%20202307ff1823h5838.png?token=AGFDTPZSS4HJP5P77FVHIL3EXGDVO)
-![Pasted image 2023071823585f4](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%202023071823585f4.png?token=AGFDTP53DM55EY52EUBC5DLEXF4JM)
+![Pasted image 2023f0718h3585f4](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%202023f0718h3585f4.png?token=AGFDTPZDISMHI6F7V7IJPKTEXGDXK)
 
 <br>
 
