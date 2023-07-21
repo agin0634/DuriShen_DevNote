@@ -12,3 +12,7 @@ tags : MacOS
 <br>
 
 ## 修改截圖路徑
+打開終端機，在 `location` 後填上路徑
+```
+defaults write com.apple.screencapture location ~/Desktop/Screenshot
+```
