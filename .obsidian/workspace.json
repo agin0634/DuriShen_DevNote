@@ -11,8 +11,12 @@
             "id": "57bc74a2fd1dc564",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS/MacOS/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 272.5
   },
   "right": {
     "id": "8adbba1ad5a11dcf",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS/MacOS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS/MacOS/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS/MacOS/Untitled.md"
+              }
             }
           },
           {
@@ -150,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +177,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ce0ba7ee9b9ced0",
+  "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
-    "未命名",
+    "OS/MacOS/Untitled.md",
+    "OS/MacOS",
+    "OS",
     "Source Control/Git/Generating a new SSH key.md",
     "Obsidian/test.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
@@ -204,8 +214,6 @@
     "Hardware",
     "Unreal Engine/test.md",
     "Obsidian",
-    "Mobile App/Flutter",
-    "Mobile App",
     "202307160223.md",
     "未命名.canvas",
     "conflict-files-obsidian-git.md",
