@@ -22,7 +22,7 @@ defaults write com.apple.screencapture location ~/Desktop/Screenshot
 ## 修改截圖格式
 打開終端機，在 `type` 後填上檔案格式，支援 jpg 、 gif 、bmp 、pdf 、png 及 tiff 格式
 ```
-defaults write com.apple.screencapture type jpg
+defaults write com.apple.screencapture type jpg
 ```
 <br>
 
@@ -31,3 +31,8 @@ defaults write com.apple.screencapture type jpg
 ```
 defaults write com.apple.screencapture name screenshot
 ```
+
+<br>
+
+## Ref
+[Screenshots | macOS defaults (macos-defaults.com)](https://macos-defaults.com/screenshots/)
