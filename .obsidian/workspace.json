@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
-                "mode": "preview",
+                "file": "Source Control/Github/取得Github帳號Token.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
+                "file": "Source Control/Github/取得Github帳號Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
+                "file": "Source Control/Github/取得Github帳號Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md"
+                "file": "Source Control/Github/取得Github帳號Token.md"
               }
             }
           },
@@ -179,13 +179,15 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
-    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+    "Source Control/Git/Generating a new SSH key.md",
+    "Source Control/Github/取得Github帳號Token.md",
     "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
+    "Source Control/Github",
+    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Archives/Images/screenshot 2023-07-21 at 6.48.38 PM.jpg",
     "Archives/Images/screenshot 2023-07-21 at 6.30.11 PM.jpg",
-    "Source Control/Git/Generating a new SSH key.md",
     "Archives/Images/截圖 2023-07-21 下午5.58.33.png",
     "Archives/Images/20ssdsd23.png",
     "Archives/Images/截圖 2023-04-29 下午6.14.05.png",
@@ -214,7 +216,6 @@
     "202307210112.md",
     "202307210111.md",
     "Hardware/VR HMD",
-    "Hardware",
     "Unreal Engine/test.md",
     "202307160223.md",
     "未命名.canvas",
