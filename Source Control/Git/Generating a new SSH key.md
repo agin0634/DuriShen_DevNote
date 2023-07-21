@@ -1,5 +1,5 @@
 ---
-date : 2023-07-20 15:50
+date : 2023-07-20
 tags : SourceControl Git
 ---
 

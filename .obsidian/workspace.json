@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md",
+                "file": "OS/MacOS/在 Mac 顯示隱藏檔案和資料夾.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md",
+                "file": "OS/MacOS/在 Mac 顯示隱藏檔案和資料夾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md",
+                "file": "OS/MacOS/在 Mac 顯示隱藏檔案和資料夾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md"
+                "file": "OS/MacOS/在 Mac 顯示隱藏檔案和資料夾.md"
               }
             }
           },
@@ -180,12 +180,12 @@
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+    "OS/MacOS/在 Mac 顯示隱藏檔案和資料夾.md",
+    "Source Control/Git/Generating a new SSH key.md",
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Archives/Templates/Note 1 - Template.md",
-    "OS/MacOS/Untitled.md",
     "OS/MacOS",
     "OS",
-    "Source Control/Git/Generating a new SSH key.md",
     "Obsidian/test.md",
     "Archives/Images/Pasted image 2023071900030d4.png",
     "Archives/Images/Pasted image 20230719000152.png",
