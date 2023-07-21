@@ -1,4 +1,4 @@
 ---
 date : 2023-07-21
-tags : OS
+tags : MacOS
 ---
