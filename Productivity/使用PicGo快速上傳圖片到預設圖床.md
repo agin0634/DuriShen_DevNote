@@ -26,6 +26,7 @@ PicGo 在 Mac 中預設是在上方工具列，右鍵點擊 PicGo 圖示後選�
 ![screenshot 2023-07-21 at 6.30.11 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202023-07-21%20at%206.30.11%20PM.jpg)
 
 **Step.5 取得 Github Token**
+![[取得Github帳號Token]]
 
 **Step.6 設定 URL 格式**
 為了讓圖片上傳後回傳的 URL 格式更符合我們需要，我們可以客製化連結格式

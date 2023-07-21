@@ -11,4 +11,4 @@ tags : SourceControl Github
 設定好名稱、期效、控制範圍後點選 `Genrate token` 綠色按鈕
 ![screenshot 2023-07-21 at 7.15.15 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202023-07-21%20at%207.15.15%20PM.jpg)
 
-> [!war]
+> [!warning]- token 生成後只會顯示一次，記得它備份到安全的地方以備以後要用
