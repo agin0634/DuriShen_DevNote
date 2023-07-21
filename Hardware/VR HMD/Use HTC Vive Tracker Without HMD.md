@@ -1,6 +1,6 @@
 ---
 date : 2023-07-21
-tags : Hardware VR Vive
+tags : hardware vr vive
 ---
 
 ## 設置SteamVR
