@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
-                "mode": "preview",
+                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md"
+                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
-    "Source Control/Git/Generating a new SSH key.md",
+    "Archives/Images/screenshot 2023-07-21 at 6.30.11 PM.jpg",
     "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+    "Source Control/Git/Generating a new SSH key.md",
     "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
     "Archives/Images/截圖 2023-07-21 下午5.58.33.png",
@@ -224,7 +225,6 @@
     "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md",
     "().md",
     "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png.md",
-    "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png 1.md",
-    "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png 2.md"
+    "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png 1.md"
   ]
 }

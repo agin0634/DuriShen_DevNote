@@ -23,7 +23,7 @@ tags : Productivity PicGo
 PicGo 在 Mac 中預設是在上方工具列，右鍵點擊 PicGo 圖示後選擇「打開詳細窗口」進行設定
 
 **Step.4 點擊「圖床設置」，使用 Github 作為圖床**
-
+![screenshot 2023-07-21 at 6.30.11 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202023-07-21%20at%206.30.11%20PM.jpg)
 
 
 
