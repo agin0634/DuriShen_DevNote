@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -179,10 +179,11 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
-    "Archives/Images/screenshot 2023-07-21 at 6.48.38 PM.jpg",
-    "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
-    "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
     "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+    "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
+    "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+    "Archives/Images/screenshot 2023-07-21 at 6.48.38 PM.jpg",
     "Archives/Images/screenshot 2023-07-21 at 6.30.11 PM.jpg",
     "Source Control/Git/Generating a new SSH key.md",
     "Archives/Images/截圖 2023-07-21 下午5.58.33.png",
@@ -192,7 +193,6 @@
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Archives/Images/20230721174817.png",
     "Archives/Templates/Note 1 - Template.md",
-    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Archives/Images/20230721174347.png",
     "Productivity",
     "OS/MacOS",
@@ -200,7 +200,6 @@
     "Obsidian/test.md",
     "Archives/Images/Pasted image 2023071900030d4.png",
     "Archives/Images/Pasted image 20230719000152.png",
-    "Archives/Images/Pasted image 20230719000127.png",
     "Archives/Images",
     "Archives/新增資料夾",
     "Archives/Image/attachment",
