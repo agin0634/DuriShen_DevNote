@@ -25,3 +25,13 @@ defaults write com.apple.finder AppleShowAllFiles TRUE
 ```
 killall Finder
 ```
+
+
+> Tips:
+> 1. 要恢復隱藏，將步驟 2 指令中的 **TRUE** 改為 **FALSE** 即可。
+> 2. 要隱藏某個檔案，可在終端機中輸入指令：`chflags hidden`， 然後將您要隱藏的檔案拖到終端機，再按「Enter」鍵。
+
+<br>
+
+## Ref
+[如何讓 Mac 顯示隱藏檔案和資料夾 - Dr.Buho (drbuho.com)](https://www.drbuho.com/zh-tw/how-to/show-hidden-files-mac)
