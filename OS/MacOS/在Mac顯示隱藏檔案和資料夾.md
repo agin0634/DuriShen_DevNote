@@ -16,5 +16,12 @@ tags : MacOS
 
 **Step.1** 開啟終端機
 
-**Step.2 ** 輸入：
-``
+**Step.2** 輸入：
+```
+defaults write com.apple.finder AppleShowAllFiles TRUE
+```
+
+**Step.3** 繼續輸入：
+```
+killall Finder
+```
