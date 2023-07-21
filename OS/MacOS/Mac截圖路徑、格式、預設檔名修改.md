@@ -26,5 +26,8 @@ defaults write com.apple.screencapture type jpg
 ```
 <br>
 
-## 修改截圖名稱
-打開終端機，在
+## 修改截圖檔案名稱
+打開終端機，在 `name` 後填上名稱
+```
+defaults write com.apple.screencapture name screenshot
+```
