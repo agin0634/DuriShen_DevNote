@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5a64b88f1a2d46a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "992adb1990a15b83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+                "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+                "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md"
+                "file": "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md"
               }
             }
           },
@@ -189,10 +177,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5a64b88f1a2d46a",
+  "active": "992adb1990a15b83",
   "lastOpenFiles": [
-    "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
+    "Archives/Images/screenshot 2023-07-21 at 6.48.38 PM.jpg",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+    "OS/MacOS/在Mac顯示隱藏檔案和資料夾.md",
     "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "Archives/Images/screenshot 2023-07-21 at 6.30.11 PM.jpg",
     "Source Control/Git/Generating a new SSH key.md",
