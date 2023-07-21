@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md",
+                "file": "Obsidian/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md",
+                "file": "Obsidian/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md",
+                "file": "Obsidian/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Control/Git/Generating a new SSH key.md"
+                "file": "Obsidian/test.md"
               }
             }
           },
@@ -177,8 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ce0ba7ee9b9ced0",
+  "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Source Control/Git/Generating a new SSH key.md",
+    "Obsidian/test.md",
     "Obsidian",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Archives/Images/Pasted image 2023071900030d4.png",
@@ -188,7 +190,6 @@
     "Archives/Images/Pasted image 20230719000020.png",
     "Archives/Images/Pasted image 2023f0718h3585f4.png",
     "Archives/Images/Pasted image 202307ff18d23h5838.png",
-    "Source Control/Git/Generating a new SSH key.md",
     "Archives/Images/Pasted image 2023072000s3332.png",
     "Archives/Images/Pasted image 20230720003332.png",
     "Archives/Images/Pasted image 20230720003313.png",
@@ -212,7 +213,6 @@
     "Unreal Engine/test.md",
     "Obsidian",
     "Mobile App/Flutter",
-    "Mobile App",
     "202307160223.md",
     "未命名.canvas",
     "conflict-files-obsidian-git.md",
