@@ -1,5 +1,5 @@
 ---
-date : 2023-07-21 01:03
+date : 2023-07-21
 tags : Hardware VR Vive
 ---
 

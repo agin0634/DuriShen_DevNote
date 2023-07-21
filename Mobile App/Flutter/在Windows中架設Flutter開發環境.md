@@ -1,5 +1,5 @@
 ---
-date : 2023-07-18 11:50
+date : 2023-07-18
 tags : flutter app
 ---
 
