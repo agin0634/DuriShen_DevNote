@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/使用PicGo快速上傳圖片到預設圖床.md"
+                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md"
               }
             }
           },
@@ -179,12 +179,13 @@
   },
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
+    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "Archives/Images/截圖 2023-07-21 下午5.58.33.png",
     "Archives/Images/20ssdsd23.png",
     "Archives/Images/截圖 2023-04-29 下午6.14.05.png",
     "Archives/Images/20230721175159.png",
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
-    "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
     "Archives/Images/20230721174817.png",
     "Archives/Templates/Note 1 - Template.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
@@ -199,7 +200,6 @@
     "Archives/Images/Pasted image 20230719000152.png",
     "Archives/Images/Pasted image 20230719000127.png",
     "Archives/Images/ImagesPasted image 20230719000f217.png",
-    "Archives/Images/Pasted image 20230719000020.png",
     "Archives/Images",
     "Archives/新增資料夾",
     "Archives/Image/attachment",
