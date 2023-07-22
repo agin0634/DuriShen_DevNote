@@ -11,12 +11,8 @@
             "id": "57bc74a2fd1dc564",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 364.5
   },
   "right": {
     "id": "8adbba1ad5a11dcf",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mobile App/Flutter/在Windows中架設Flutter開發環境.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,6 +171,7 @@
   },
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Source Control/Git/Generating a new SSH key.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
@@ -194,7 +187,6 @@
     "Archives/Images/screenshot 2023-07-21 at 6.48.38 PM.jpg",
     "Archives/Images/screenshot 2023-07-21 at 6.30.11 PM.jpg",
     "Obsidian/test.md",
-    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Archives/Images/Pasted image 2023071900030d4.png",
     "Archives/Images/Pasted image 20230719000152.png",
     "Archives/Images/Pasted image 20230719000127.png",
