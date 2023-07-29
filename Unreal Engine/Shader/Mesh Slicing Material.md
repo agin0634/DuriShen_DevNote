@@ -19,5 +19,5 @@ tags : UE4 UE5 Shader
 創建一個新的 Material，Blend Mode 改成 `Masked` 、Two Sided 為 `True`，並按照下圖串接節點，BaceColor 可接上任何顏色或貼圖
 ![2023-07-29 183320](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-07-29%20183320.png)
 
-
+將材質球套上想切的模型
 ![2023_07_29_18_37_00_828](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023_07_29_18_37_00_828.gif)
