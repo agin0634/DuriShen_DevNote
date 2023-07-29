@@ -14,3 +14,6 @@ tags : UE4 UE5 Shader
 ![2023-07-29 182435](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-07-29%20182435.png)
 
 <br>
+
+## Material
+創建一個新的 Material，
