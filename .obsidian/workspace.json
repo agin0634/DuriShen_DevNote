@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Unreal Engine/Shader/Mesh Slicing Material.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -179,11 +179,12 @@
   },
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Archives/Images/20230729181511.png",
+    "Unreal Engine/Shader/Mesh Slicing Material.md",
+    "Source Control/Git/Generating a new SSH key.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
-    "Source Control/Git/Generating a new SSH key.md",
-    "Unreal Engine/Shader/Mesh Slicing Material.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
     "Unreal Engine/Shader",
     "README.md",
@@ -202,7 +203,6 @@
     "Archives/Images/Pasted image 20230719000127.png",
     "Archives/Images/ImagesPasted image 20230719000f217.png",
     "Archives/Images/Pasted image 20230719000020.png",
-    "Archives/Images/Pasted image 2023f0718h3585f4.png",
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Archives/Images",
     "Archives/新增資料夾",
@@ -224,7 +224,6 @@
     "Unreal Engine/Programming & Scripting/Socket多線程TCP通信.md",
     "Python/使用Selenium自動化登入.md",
     "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md",
-    "().md",
-    "Archives/Images/Unreal_Engine/scenecapture_UMG_1.png.md"
+    "().md"
   ]
 }

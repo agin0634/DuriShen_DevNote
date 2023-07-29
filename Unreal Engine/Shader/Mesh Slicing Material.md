@@ -4,4 +4,5 @@ tags : UE4 UE5 Shader
 ---
 ---
 ## 創建 MPC
-![20230729181511](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/20230729181511.png)
+創建一個新的 MPC，並新增2個 Vector Para
+![2023-07-29-181651](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-07-29-181651.png)
