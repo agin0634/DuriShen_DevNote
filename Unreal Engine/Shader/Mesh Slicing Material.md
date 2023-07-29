@@ -16,4 +16,4 @@ tags : UE4 UE5 Shader
 <br>
 
 ## Material
-創建一個新的 Material，
+創建一個新的 Material，Blend Mode 改成 `Masked` 、Two Sided 為 `True`
