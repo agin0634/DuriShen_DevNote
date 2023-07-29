@@ -11,9 +11,11 @@
             "id": "57bc74a2fd1dc564",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Archives/Images/2023-07-29 182435.png"
+                "file": "Unreal Engine/Shader/Mesh Slicing Material.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/Images/2023-07-29 182435.png",
+                "file": "Unreal Engine/Shader/Mesh Slicing Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archives/Images/2023-07-29 182435.png",
+                "file": "Unreal Engine/Shader/Mesh Slicing Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/Images/2023-07-29 182435.png"
+                "file": "Unreal Engine/Shader/Mesh Slicing Material.md"
               }
             }
           },
@@ -177,6 +179,7 @@
   },
   "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Archives/Images/2023-07-29 183320.png",
     "Archives/Images/2023-07-29-181651.png",
     "Archives/Images/2023-07-29 182435.png",
     "Unreal Engine/Shader/Mesh Slicing Material.md",
