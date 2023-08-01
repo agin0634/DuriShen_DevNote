@@ -177,8 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "667bfedffb322a71",
+  "active": "6ce0ba7ee9b9ced0",
   "lastOpenFiles": [
+    "Unreal Engine/Programming & Scripting",
+    "Unreal Engine/未命名.md",
     "Unreal Engine/Shader/Mesh Slicing Material.md",
     "Archives/Images/2023_07_29_18_37_00_828.gif",
     "Archives/Images/2023-07-29 183320.png",
@@ -223,7 +225,6 @@
     "conflict-files-obsidian-git.md",
     "Unreal Engine/Programming & Scripting/Socket多線程TCP通信.md",
     "Python/使用Selenium自動化登入.md",
-    "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md",
-    "().md"
+    "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md"
   ]
 }
