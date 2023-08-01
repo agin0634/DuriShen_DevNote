@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Shader/Mesh Slicing Material.md",
-                "mode": "preview",
+                "file": "Unreal Engine/Programming & Scripting/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Shader/Mesh Slicing Material.md",
+                "file": "Unreal Engine/Programming & Scripting/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Shader/Mesh Slicing Material.md",
+                "file": "Unreal Engine/Programming & Scripting/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Shader/Mesh Slicing Material.md"
+                "file": "Unreal Engine/Programming & Scripting/Untitled.md"
               }
             }
           },
@@ -177,11 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ce0ba7ee9b9ced0",
+  "active": "57bc74a2fd1dc564",
   "lastOpenFiles": [
+    "Unreal Engine/Shader/Mesh Slicing Material.md",
+    "Unreal Engine/Programming & Scripting/Untitled.md",
     "Unreal Engine/Programming & Scripting",
     "Unreal Engine/未命名.md",
-    "Unreal Engine/Shader/Mesh Slicing Material.md",
     "Archives/Images/2023_07_29_18_37_00_828.gif",
     "Archives/Images/2023-07-29 183320.png",
     "Archives/Images/2023-07-29-181651.png",
@@ -211,7 +212,6 @@
     "Archives/Image/attachment",
     "Archives/Image/新增資料夾",
     "Archives/Image/README.md",
-    "Archives/Image",
     "Archives/Images/README.md",
     "Unreal Engine/Untitled.md",
     "Untitled.md",
