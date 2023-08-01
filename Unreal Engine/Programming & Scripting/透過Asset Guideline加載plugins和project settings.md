@@ -9,3 +9,14 @@ tags : UE4 UE5 Editor
 
 
 Project Settings 也同理
+
+使用 `Async Load Asset` 來載入 Asset
+
+
+載入 Asset 時，右下角會跳出警告視窗，會看到 Needed Plugins 下列出剛剛填入的 Plugin，並點擊 `Enable Missing`
+
+
+接著會再跳出一個視窗，點擊 `Restart Now`，編輯器會重啟。重啟後 Plugins 或 Project Settings 的改動就會被啟用了
+
+## Ref
+[UAssetGuideline | Unreal Engine Documentation](https://docs.unrealengine.com/4.26/en-US/API/Editor/UnrealEd/Editor/UAssetGuideline/)
