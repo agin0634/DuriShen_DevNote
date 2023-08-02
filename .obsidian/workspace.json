@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a58de00feba9bf81",
+        "id": "588596f6f866bcf7",
         "type": "tabs",
         "children": [
           {
-            "id": "57bc74a2fd1dc564",
+            "id": "992adb1990a15b83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
-                "mode": "source",
+                "file": "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 352.5
   },
   "right": {
     "id": "8adbba1ad5a11dcf",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
+                "file": "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
+                "file": "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md"
+                "file": "OS/MacOS/Mac顯示隱藏檔案和資料夾.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "9bb4ddc7042784b5",
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,46 +177,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57bc74a2fd1dc564",
+  "active": "6ce0ba7ee9b9ced0",
   "lastOpenFiles": [
+    "Unreal Engine/Shader/Mesh Slicing Material.md",
     "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
-    "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
-    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+    "Unreal Engine/Shader",
+    "Unreal Engine/Programming & Scripting",
+    "Unreal Engine",
+    "Archives/Images/2023_07_29_18_37_00_828.gif",
     "Archives/Images/2023-08-01 222408.png",
     "Archives/Images/2023-08-01 222357.png",
     "Archives/Images/2023-08-01 222345.png",
     "Archives/Images/2023-08-01 222331.png",
     "Archives/Images/2023-08-01 222206.png",
-    "Unreal Engine/Shader/Mesh Slicing Material.md",
-    "Source Control/Git/Generating a new SSH key.md",
-    "Source Control/Github/取得Github帳號Token.md",
-    "Unreal Engine/Programming & Scripting",
-    "Unreal Engine/未命名.md",
-    "Archives/Images/2023_07_29_18_37_00_828.gif",
-    "Archives/Images/2023-07-29 183320.png",
     "Archives/Images/2023-07-29-181651.png",
+    "Archives/Images/2023-07-29 183320.png",
     "Archives/Images/2023-07-29 182435.png",
-    "Archives/Images/20230729181511.png",
-    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+    "Source Control/Github/取得Github帳號Token.md",
+    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
-    "Unreal Engine/Shader",
-    "README.md",
+    "Archives/Images/screenshot 2023-07-21 at 7.15.15 PM.jpg",
+    "Source Control/Git/Generating a new SSH key.md",
+    "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
     "Source Control/Github",
+    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
+    "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
+    "Archives/Templates/Note 1 - Template.md",
     "Productivity",
     "OS/MacOS",
     "OS",
     "Obsidian/test.md",
-    "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Archives/Images",
     "Archives/新增資料夾",
     "Archives/Image/attachment",
-    "Archives/Image/新增資料夾",
     "Archives/Image/README.md",
     "Archives/Images/README.md",
+    "README.md",
     "Unreal Engine/Untitled.md",
     "Untitled.md",
     "未命名.md",
-    "Archives/Templates/Note 1 - Template.md",
     "202307210112.md",
     "202307210111.md",
     "Unreal Engine/test.md",
@@ -224,6 +223,8 @@
     "未命名.canvas",
     "conflict-files-obsidian-git.md",
     "Unreal Engine/Programming & Scripting/Socket多線程TCP通信.md",
-    "Python/使用Selenium自動化登入.md"
+    "Python/使用Selenium自動化登入.md",
+    "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md",
+    "().md"
   ]
 }
