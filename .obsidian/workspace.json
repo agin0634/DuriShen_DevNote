@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Programming & Scripting/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Programming & Scripting/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Programming & Scripting/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md"
+                "file": "Unreal Engine/Programming & Scripting/未命名.md"
               }
             }
           },
@@ -177,8 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "667bfedffb322a71",
+  "active": "992adb1990a15b83",
   "lastOpenFiles": [
+    "Archives/Templates/Note 1 - Template.md",
+    "Unreal Engine/Programming & Scripting/未命名.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
@@ -202,7 +204,6 @@
     "Source Control/Git/Generating a new SSH key.md",
     "Source Control/Github",
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
-    "Archives/Templates/Note 1 - Template.md",
     "Productivity",
     "OS/MacOS",
     "OS",
@@ -224,7 +225,6 @@
     "conflict-files-obsidian-git.md",
     "Unreal Engine/Programming & Scripting/Socket多線程TCP通信.md",
     "Python/使用Selenium自動化登入.md",
-    "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md",
-    "().md"
+    "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md"
   ]
 }
