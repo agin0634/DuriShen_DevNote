@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/未命名.md",
+                "file": "Archives/Templates/Note 1 - Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/未命名.md",
+                "file": "Archives/Templates/Note 1 - Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/未命名.md",
+                "file": "Archives/Templates/Note 1 - Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Programming & Scripting/未命名.md"
+                "file": "Archives/Templates/Note 1 - Template.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
+    "Unreal Engine/Programming & Scripting/搭建運行Python的編輯器環境.md",
     "Archives/Templates/Note 1 - Template.md",
-    "Unreal Engine/Programming & Scripting/未命名.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
