@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Programming & Scripting/搭建可運行Python的編輯器環境.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Programming & Scripting/搭建可運行Python的編輯器環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Programming & Scripting/搭建可運行Python的編輯器環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md"
+                "file": "Unreal Engine/Programming & Scripting/搭建可運行Python的編輯器環境.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
-    "Unreal Engine/Programming & Scripting/搭建運行Python的編輯器環境.md",
+    "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
+    "Unreal Engine/Programming & Scripting/搭建可運行Python的編輯器環境.md",
     "Archives/Templates/Note 1 - Template.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
-    "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
     "Unreal Engine/Shader/Mesh Slicing Material.md",
     "Unreal Engine/Shader",
@@ -224,7 +224,6 @@
     "未命名.canvas",
     "conflict-files-obsidian-git.md",
     "Unreal Engine/Programming & Scripting/Socket多線程TCP通信.md",
-    "Python/使用Selenium自動化登入.md",
-    "Unreal Engine/Rendering/Using SceneCapture2D in UMG.md"
+    "Python/使用Selenium自動化登入.md"
   ]
 }
