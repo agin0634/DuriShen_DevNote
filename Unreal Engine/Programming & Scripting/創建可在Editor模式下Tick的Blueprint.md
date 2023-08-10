@@ -13,3 +13,6 @@ Allow Tick Before Begin Play = True
 Tick Even When Paused = True
 Is Editor Only Actor = True
 ```
+
+在 
+![2023-08-10 223246](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-08-10%20223246.png)
