@@ -14,5 +14,5 @@ Tick Even When Paused = True
 Is Editor Only Actor = True
 ```
 
-新增一個 float 的變數 `TickRatePerSecond`，
+新增一個 float 的變數 `TickRatePerSecond`，並在 `Set Timer`
 ![2023-08-10 223246](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-08-10%20223246.png)
