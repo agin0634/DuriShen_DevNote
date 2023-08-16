@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md",
+                "file": "Python/建立Python虛擬環境.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md",
+                "file": "Python/建立Python虛擬環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md",
+                "file": "Python/建立Python虛擬環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md"
+                "file": "Python/建立Python虛擬環境.md"
               }
             }
           },
@@ -177,14 +177,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ce0ba7ee9b9ced0",
+  "active": "992adb1990a15b83",
   "lastOpenFiles": [
+    "Unreal Engine/Rendering/Texture Bombing Material Function.md",
+    "Python/建立Python虛擬環境.md",
     "Python",
     "Archives/Images/T_Voronoi_Perturbed_4k.PNG",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
     "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
-    "Unreal Engine/Rendering/Texture Bombing Material Function.md",
     "Unreal Engine/Rendering/Mesh Slicing Material.md",
     "未命名.md",
     "Archives/Templates/Note 1 - Template.md",
@@ -214,7 +215,6 @@
     "OS",
     "Obsidian/test.md",
     "Archives/Images",
-    "Archives/新增資料夾",
     "Archives/Image/README.md",
     "Archives/Images/README.md",
     "README.md",
