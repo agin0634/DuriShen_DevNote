@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
+                "file": "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
+                "file": "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
+                "file": "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md"
+                "file": "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md"
               }
             }
           },
@@ -179,17 +179,17 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
+    "Unreal Engine/Pipeline & Plugins/創建可在Editor模式下Tick的Blueprint.md",
+    "Unreal Engine/Pipeline & Plugins/搭建可運行Python的編輯器環境.md",
+    "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md",
+    "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
     "Unreal Engine/Pipeline & Plugins",
     "Unreal Engine/Platform & Builds",
     "Unreal Engine/Cinematics & Media",
     "Unreal Engine/Rendering/Texture Bombing Material Function.md",
     "Python/使用venv建立Python虛擬環境.md",
     "Programming/Source Control/Github/取得Github帳號Token.md",
-    "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
     "Unreal Engine/Rendering/Mesh Slicing Material.md",
-    "Unreal Engine/Programming & Scripting/搭建可運行Python的編輯器環境.md",
-    "Unreal Engine/Programming & Scripting/創建可在Editor模式下Tick的Blueprint.md",
-    "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
     "Python",
     "Archives/Images/T_Voronoi_Perturbed_4k.PNG",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
@@ -215,7 +215,6 @@
     "Programming/Source Control/Github",
     "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
     "Productivity",
-    "OS/MacOS",
     "Obsidian/test.md",
     "Archives/Image/README.md",
     "Archives/Images/README.md",
