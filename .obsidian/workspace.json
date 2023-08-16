@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/建立Python虛擬環境.md",
+                "file": "Python/使用venv建立Python虛擬環境.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/建立Python虛擬環境.md",
+                "file": "Python/使用venv建立Python虛擬環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/建立Python虛擬環境.md",
+                "file": "Python/使用venv建立Python虛擬環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/建立Python虛擬環境.md"
+                "file": "Python/使用venv建立Python虛擬環境.md"
               }
             }
           },
@@ -180,7 +180,7 @@
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
     "Unreal Engine/Rendering/Texture Bombing Material Function.md",
-    "Python/建立Python虛擬環境.md",
+    "Python/使用venv建立Python虛擬環境.md",
     "Python",
     "Archives/Images/T_Voronoi_Perturbed_4k.PNG",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
