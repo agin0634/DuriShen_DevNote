@@ -177,8 +177,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "992adb1990a15b83",
+  "active": "6ce0ba7ee9b9ced0",
   "lastOpenFiles": [
+    "Unreal Engine/Cinematic & Media",
     "Unreal Engine/Rendering/Texture Bombing Material Function.md",
     "Python/使用venv建立Python虛擬環境.md",
     "Programming/Source Control/Github/取得Github帳號Token.md",
@@ -224,7 +225,6 @@
     "202307210112.md",
     "202307210111.md",
     "Unreal Engine/test.md",
-    "202307160223.md",
     "未命名.canvas"
   ]
 }
