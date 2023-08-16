@@ -11,8 +11,12 @@
             "id": "992adb1990a15b83",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md"
+              }
             }
           },
           {
