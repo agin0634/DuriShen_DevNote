@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
-                "mode": "preview",
+                "file": "Unreal Engine/Rendering/Mesh Slicing Material.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Rendering/Mesh Slicing Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md",
+                "file": "Unreal Engine/Rendering/Mesh Slicing Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/Templates/Note 1 - Template.md"
+                "file": "Unreal Engine/Rendering/Mesh Slicing Material.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
+    "Archives/Templates/Note 1 - Template.md",
     "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
     "Unreal Engine/Programming & Scripting/搭建可運行Python的編輯器環境.md",
     "Programming",
@@ -189,11 +190,10 @@
     "Programming/Source Control/Git/Generating a new SSH key.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
     "Programming/Source Control/Github/取得Github帳號Token.md",
-    "Archives/Templates/Note 1 - Template.md",
     "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
-    "Unreal Engine/Shader/Mesh Slicing Material.md",
-    "Unreal Engine/Shader",
+    "Unreal Engine/Rendering/Mesh Slicing Material.md",
+    "Unreal Engine/Rendering",
     "Unreal Engine/Programming & Scripting",
     "Unreal Engine",
     "Archives/Images/2023_07_29_18_37_00_828.gif",
