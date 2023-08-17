@@ -2,7 +2,6 @@
 date : 2023-08-17
 tags : Python VirtualEnv
 ---
-Status::🌱
 ---
 ## 建立虛擬環境
 
