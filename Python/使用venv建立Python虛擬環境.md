@@ -39,5 +39,13 @@ source ./venvname/bin/activate
 ```
 deactivate
 ```
+
+<br>
+
+## 刪除虛擬環境
+離開虛擬環境後，再將虛擬環境的資料夾刪除即可
+
+<br>
+
 ## Ref
 [12. 虛擬環境與套件 — Python 3.11.4 說明文件](https://docs.python.org/zh-tw/3/tutorial/venv.html)
