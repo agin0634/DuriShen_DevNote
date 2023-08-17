@@ -5,11 +5,8 @@ tags : Python VirtualEnv
 Status::🌱
 ---
 ## 建立虛擬環境
-**Windows:**
-```
-py -m venv venvname
-```
-**Mac:**
+
+**Windows/Mac:**
 ```
 python -m venv venvname
 ```
