@@ -15,7 +15,9 @@ python -m venv venvname
 ```
 
 <br>
+
 ## 進入虛擬環境
+
 **Windows:**
 ```
 .\venvname\Scripts\activate.bat
@@ -28,6 +30,14 @@ python -m venv venvname
 **Mac:**
 ```
 source ./venvname/bin/activate
+```
+
+<br>
+
+## 離開虛擬環境
+**Windows/Mac:**
+```
+deactivate
 ```
 ## Ref
 [12. 虛擬環境與套件 — Python 3.11.4 說明文件](https://docs.python.org/zh-tw/3/tutorial/venv.html)
