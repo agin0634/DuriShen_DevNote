@@ -10,6 +10,7 @@ tags : Python VirtualEnv
 python -m venv venvname
 ```
 
+也可使用 `python3.6` 來指定虛擬環境的 Python 版本
 <br>
 
 ## 進入虛擬環境
