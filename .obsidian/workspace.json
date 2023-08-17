@@ -11,8 +11,12 @@
             "id": "992adb1990a15b83",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/使用venv建立Python虛擬環境.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/使用venv建立Python虛擬環境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/使用venv建立Python虛擬環境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/使用venv建立Python虛擬環境.md"
+              }
             }
           },
           {
@@ -171,6 +179,7 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
+    "Unreal Engine/Rendering/Mesh Slicing Material.md",
     "Unreal Engine/Platform & Builds/UE5 GPU Crashed or D3D Device Removed Fix.md",
     "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md",
     "Unreal Engine/Pipeline & Plugins/創建可在Editor模式下Tick的Blueprint.md",
@@ -182,7 +191,6 @@
     "Unreal Engine/Rendering/Texture Bombing Material Function.md",
     "Python/使用venv建立Python虛擬環境.md",
     "Programming/Source Control/Github/取得Github帳號Token.md",
-    "Unreal Engine/Rendering/Mesh Slicing Material.md",
     "Python",
     "Archives/Images/T_Voronoi_Perturbed_4k.PNG",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
