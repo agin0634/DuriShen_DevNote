@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
-                "mode": "preview",
+                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
+                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md"
+                "file": "Unreal Engine/Rendering/Texture Bombing Material Function.md"
               }
             }
           },
@@ -179,6 +179,12 @@
   },
   "active": "992adb1990a15b83",
   "lastOpenFiles": [
+    "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
+    "Unreal Engine/Rendering/Texture Bombing Material Function.md",
+    "Unreal Engine/Rendering/Mesh Slicing Material.md",
+    "README.md",
+    "Unreal Engine/Rendering/Untitled.md",
+    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
     "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
     "Programming/Source Control/Github/取得Github帳號Token.md",
@@ -188,15 +194,11 @@
     "Unreal Engine/Pipeline & Plugins/創建可在Editor模式下Tick的Blueprint.md",
     "Unreal Engine/Pipeline & Plugins/搭建可運行Python的編輯器環境.md",
     "Unreal Engine/Platform & Builds/UE5 GPU Crashed or D3D Device Removed Fix.md",
-    "Unreal Engine/Rendering/Mesh Slicing Material.md",
-    "Unreal Engine/Rendering/Texture Bombing Material Function.md",
-    "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
     "Unreal Engine/Pipeline & Plugins",
     "Unreal Engine/Platform & Builds",
     "Unreal Engine/Cinematics & Media",
     "Python",
     "Archives/Images/T_Voronoi_Perturbed_4k.PNG",
-    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "未命名.md",
     "Archives/Templates/Note 1 - Template.md",
     "Programming",
@@ -219,12 +221,10 @@
     "Obsidian/test.md",
     "Archives/Image/README.md",
     "Archives/Images/README.md",
-    "README.md",
     "Unreal Engine/Untitled.md",
     "Untitled.md",
     "202307210112.md",
     "202307210111.md",
-    "Unreal Engine/test.md",
     "未命名.canvas"
   ]
 }
