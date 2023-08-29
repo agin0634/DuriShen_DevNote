@@ -19,4 +19,5 @@ PrivateDependencyModuleNames.AddRange(
 	"Sockets" ,
 	"Projects" // <-add this Module for using FSlateStyleSet
 	}
+)
 ```
