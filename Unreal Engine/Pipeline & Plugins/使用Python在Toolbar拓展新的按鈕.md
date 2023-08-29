@@ -29,4 +29,4 @@ menus.refresh_all_widgets()
 https://github.com/EpicKiwi/unreal-engine-editor-icons
 
 若還是想使用自定義的 Icon，還是得用 C++註冊自己的圖
-![[在Toolbar使用自定義的Icon]]
+![[在Editor Toolbar使用自定義的Icon]]
