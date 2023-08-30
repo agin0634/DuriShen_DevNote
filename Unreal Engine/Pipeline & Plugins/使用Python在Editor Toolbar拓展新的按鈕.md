@@ -7,7 +7,9 @@ Status::🌱
 >使用 Python 擴展編輯器雖然沒使用 C++ 來的靈活，但寫起來更簡單且快速 
 
 <br>
-創建一個 `init_unreal.py` 
+創建一個 `init_unreal.py`
+
+
 ```
 # init_unreal.py
 import unreal
@@ -30,6 +32,7 @@ menu.add_menu_entry("", entry)
         
 menus.refresh_all_widgets()
 ```
+
 
 點擊按鈕後打印出 Hello
 ![2023-08-30 2156445455](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-08-30%202156445455.png)
