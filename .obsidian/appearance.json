@@ -1,5 +1,6 @@
 {
   "baseFontSize": 18,
   "cssTheme": "Typewriter",
-  "accentColor": ""
+  "accentColor": "",
+  "monospaceFontFamily": "Inter"
 }
