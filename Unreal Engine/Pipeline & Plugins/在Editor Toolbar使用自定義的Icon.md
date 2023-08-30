@@ -46,3 +46,56 @@ private:
 	static TSharedPtr< class FSlateStyleSet > StyleInstance;
 };
 ```
+
+```
+//MyStyle.cpp
+#include "Style.h"
+
+//Additional Includes
+#include "Interfaces/IPluginManager.h"
+#include "Styling/SlateStyleMacros.h"
+
+#define RootToContentDir Style->RootToContentDir
+
+TSharedPtr<FSlateStyleSet> FMyStyle::StyleInstance = nullptr;
+
+//Common sizes for icons and thumbnails
+const FVector2D Icon64x64(64.f, 64.f);
+const FVector2D Icon40x40(40.0f, 40.0f);
+const FVector2D Icon20x20(20.0f, 20.0f);
+const FVector2D Icon16x16(16.0f, 16.0f);
+const FVector2D Icon12x12(12.0f, 12.0f);
+
+void FMyStyle::Initialize()
+{
+	if (!StyleInstance.IsValid())
+	{
+		StyleInstance = Create();
+		FSlateStyleRegistry::RegisterSlateStyle(*StyleInstance);
+	}
+}
+
+void FMyStyle::Shutdown()
+{
+	FSlateStyleRegistry::UnRegisterSlateStyle(*StyleInstance);
+	StyleInstance.Reset();
+}
+
+TSharedRef<class FSlateStyleSet> FMyStyle::Create()
+{
+	//Create a new style set
+	TSharedRef<FSlateStyleSet> Style = MakeShareable(new FSlateStyleSet("MyStyle"));
+
+	//Set the content Root directory of our plugin in order to access the images
+	Style->SetContentRoot(IPluginManager::Get().FindPlugin("MyPlugin")->GetBaseDir() / TEXT("Resources"));
+
+	//Set the Images of the properties to be equal of new images
+	//Include `SlateStyleMacros.h` to use this marco
+	Style->Set("MyStyle.ToolbarButton", new IMAGE_BRUSH(TEXT("Icon128"), Icon20x20));
+	Style->Set("MyStyle.ToolbarButtonSmall", new IMAGE_BRUSH(TEXT("Icon128"), Icon16x16));
+
+	return Style;
+}
+```
+>這邊設定的 Root 路徑是 Plugin 下的 Resources，所以將圖片放在此資料夾
+
