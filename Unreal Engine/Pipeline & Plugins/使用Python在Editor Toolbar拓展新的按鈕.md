@@ -7,22 +7,31 @@ Status::🌱
 >使用 Python 擴展編輯器雖然沒使用 C++ 來的靈活，但寫起來更簡單且快速 
 
 <br>
-
+創建一個 `init_unreal.py` 
 ```
+# init_unreal.py
 import unreal
 
-# Get editor ToolBar ref
+# Get editor toolbar menu
 menus = unreal.ToolMenus.get()
 menu_name = "LevelEditor.LevelEditorToolBar.User"
 menu = menus.find_menu(menu_name)
+
+# register menu entry
+entry = unreal.ToolMenuEntry(type=unreal.MultiBlockType.TOOL_BAR_BUTTON)
+entry.set_label("MyButton")
+entry.set_tool_tip("My Button Tooltip")
 entry.set_icon("EditorStyle","Menu.Icon")
 
+# register command
 command = unreal.ToolMenuStringCommandType.PYTHON
 entry.set_string_command(command, "", 'print("Hello")')
 menu.add_menu_entry("", entry)
         
 menus.refresh_all_widgets()
 ```
+
+點擊按鈕後打印出 Hello
 
 
 > Python 腳本中無法使用自定義的 Icon，只能使用引擎內建的 Icon
