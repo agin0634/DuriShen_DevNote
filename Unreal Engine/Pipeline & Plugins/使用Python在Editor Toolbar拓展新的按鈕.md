@@ -33,7 +33,8 @@ menus.refresh_all_widgets()
 ```
 
 
-點擊按鈕後打印出 Hello![2023-08-30 2156445455](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-08-30%202156445455.png)
+點擊按鈕後打印出 Hello
+![2023-08-30 2156445455](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-08-30%202156445455.png)
 
 > Python 腳本中無法使用自定義的 Icon，只能使用引擎內建的 Icon
 
