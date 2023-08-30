@@ -5,6 +5,8 @@ tags : UE5 Editor Plugin Slate c++
 ---
 >在 Unreal Editor 中可使用 **FSlateStyleSet** 來新增自定義的 icons 或 thumbnails，以下以在新創建的 plugin 中的 Toolbar 按鈕上使用自定義的 icon 作為範例
 
+<br>
+
 創建一個新的 plugin 後，在 Build.cs 中新增 `Projects` module
 ```
 //Build.cs
@@ -98,6 +100,8 @@ TSharedRef<class FSlateStyleSet> FMyStyle::Create()
 }
 ```
 >這邊設定的 Root 路徑是 Plugin 下的 Resources，所以將圖片放在此資料夾
+
+<br>
 
 接著到 Plugin.cpp
 ```
