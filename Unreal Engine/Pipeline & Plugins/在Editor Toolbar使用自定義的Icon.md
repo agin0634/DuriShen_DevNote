@@ -99,3 +99,29 @@ TSharedRef<class FSlateStyleSet> FMyStyle::Create()
 ```
 >這邊設定的 Root 路徑是 Plugin 下的 Resources，所以將圖片放在此資料夾
 
+接著到 Plugin.cpp
+```
+//MyPlugin.cpp
+#include "MyXRPlugin.h"
+
+//Incldue MyStyle header
+#include "MyStyle.h"
+
+#define LOCTEXT_NAMESPACE "FMyPluginModule"
+
+void FMyPluginModule::StartupModule()
+{
+	FMyStyle::Initialize();
+}
+
+void FMyPluginModule::ShutdownModule()
+{
+	FMyStyle::Shutdown();
+}
+
+#undef LOCTEXT_NAMESPACE
+	
+IMPLEMENT_MODULE(FMyPluginModule, MyPluginModule)
+```
+
+Compile 後，重啟編輯器
