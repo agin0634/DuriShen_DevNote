@@ -1,12 +1,11 @@
 ---
-date : 2023-08-29
+date : 2023-08-30
 tags : UE5 Editor Python Slate
 ---
-Status::🌱
 ---
 >使用 Python 擴展編輯器雖然沒使用 C++ 來的靈活，但寫起來更簡單且快速 
 
-<b
+<br>
 
 創建一個 `init_unreal.py`
 
@@ -42,6 +41,8 @@ menus.refresh_all_widgets()
 可參考Engine source code `SlateEditorStyle.cpp` 
 或這個網站
 https://github.com/EpicKiwi/unreal-engine-editor-icons
+
+<br>
 
 若還是想使用自定義的 Icon，還是得用 C++註冊自己的圖
 ![[在Editor Toolbar使用自定義的Icon]]
