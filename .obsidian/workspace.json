@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/使用venv建立Python虛擬環境.md",
+                "file": "Unreal Engine/Rendering/Mesh Slicing Material.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "80c17177489ff430",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "618c0d8334fcfece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/使用venv建立Python虛擬環境.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/使用venv建立Python虛擬環境.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/使用venv建立Python虛擬環境.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -177,12 +200,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "992adb1990a15b83",
+  "active": "618c0d8334fcfece",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Python/使用venv建立Python虛擬環境.md",
+    "Unreal Engine/Rendering/讓3D Widget總是渲染在畫面最上層.md",
     "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
     "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
     "Unreal Engine/Pipeline & Plugins/創建可在Editor模式下Tick的Blueprint.md",
-    "Python/使用venv建立Python虛擬環境.md",
     "Archives/Templates/Note 1 - Template.md",
     "Unreal Engine/Rendering/Texture Bombing Material Function.md",
     "Unreal Engine/Platform & Builds/UE5 GPU Crashed or D3D Device Removed Fix.md",
@@ -223,8 +248,6 @@
     "Archives/Image/README.md",
     "Archives/Images/README.md",
     "README.md",
-    "Unreal Engine/Untitled.md",
-    "Untitled.md",
     "未命名.canvas"
   ]
 }

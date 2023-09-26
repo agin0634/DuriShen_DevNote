@@ -1,6 +1,6 @@
 ---
 date : 2023-08-16
-tags : UE4 UE5 Shader texturing
+tags : UE4 UE5 Shader Texturing
 ---
 status::🌱
 ---
@@ -8,4 +8,4 @@ status::🌱
 
 <br>
 
-![T_Voronoi_Perturbed_4k](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/T_Voronoi_Perturbed_4k.PNG)
+![T_Voronoi_Perturbed_4k|512x512](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/T_Voronoi_Perturbed_4k.PNG)
