@@ -1,66 +1,35 @@
 {
   "main": {
-    "id": "faefe2ee03d32b7c",
+    "id": "ac8bcf910048d161",
     "type": "split",
     "children": [
       {
-        "id": "588596f6f866bcf7",
+        "id": "01927d8fb760f5af",
         "type": "tabs",
         "children": [
           {
-            "id": "992adb1990a15b83",
+            "id": "8bc6f7b3f1d3aaf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Unreal Engine/Rendering/Mesh Slicing Material.md",
-=======
-                "file": "Programming/Source Control/Git/Generating a new SSH key.md",
->>>>>>> d8cb4c004f01710a70b7359066889ae0fa4b3380
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80c17177489ff430",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "618c0d8334fcfece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "80dc798c28e153e6",
+    "id": "d022dec72c75aa9d",
     "type": "split",
     "children": [
       {
-        "id": "300e81126477c921",
+        "id": "b7d5a75bedcb7c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce0ba7ee9b9ced0",
+            "id": "22c9ddebdd3ced2f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +39,7 @@
             }
           },
           {
-            "id": "acc8dcb69e1f93b1",
+            "id": "0f2b650b09403c12",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,15 +54,7 @@
             }
           },
           {
-            "id": "8f9806152ef65160",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "5f56b9d380d56abf",
+            "id": "3b4028dd8e352c9e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,28 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 300
   },
   "right": {
-    "id": "8adbba1ad5a11dcf",
+    "id": "28947a4f14a9369d",
     "type": "split",
     "children": [
       {
-        "id": "b6e94797703fdccf",
+        "id": "78a98f5ba5d535c6",
         "type": "tabs",
-        "dimension": 73.65384615384616,
         "children": [
           {
-            "id": "8fe0b4c26d5109f2",
+            "id": "083b0a367b841c56",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "Programming/Source Control/Git/Generating a new SSH key.md",
->>>>>>> d8cb4c004f01710a70b7359066889ae0fa4b3380
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,53 +92,18 @@
             }
           },
           {
-            "id": "fdf3b089bb43140a",
+            "id": "d9043a3e2b72550e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "Programming/Source Control/Git/Generating a new SSH key.md",
->>>>>>> d8cb4c004f01710a70b7359066889ae0fa4b3380
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4a5ba9b0a7ec64bb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md"
-=======
-                "file": "Programming/Source Control/Git/Generating a new SSH key.md"
->>>>>>> d8cb4c004f01710a70b7359066889ae0fa4b3380
-              }
-            }
-          },
-          {
-            "id": "667bfedffb322a71",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9bb4ddc7042784b5",
-        "type": "tabs",
-        "dimension": 26.346153846153847,
-        "children": [
-          {
-            "id": "4fb89ad2612bf093",
+            "id": "006859eaa0489b53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -192,15 +112,25 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b7ede5c8dde8caea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -212,96 +142,9 @@
       "random-note:開始漫遊筆記": false,
       "audio-recorder:開始/停止錄音": false,
       "workspaces:管理工作區配置": false,
-      "publish:發佈變動內容": false,
-      "templater-obsidian:Templater": false
+      "publish:發佈變動內容": false
     }
   },
-  "active": "618c0d8334fcfece",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "conflict-files-obsidian-git.md",
-    "Python/使用venv建立Python虛擬環境.md",
-    "Unreal Engine/Rendering/讓3D Widget總是渲染在畫面最上層.md",
-    "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
-    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
-    "Unreal Engine/Pipeline & Plugins/創建可在Editor模式下Tick的Blueprint.md",
-    "Archives/Templates/Note 1 - Template.md",
-    "Unreal Engine/Rendering/Texture Bombing Material Function.md",
-    "Unreal Engine/Platform & Builds/UE5 GPU Crashed or D3D Device Removed Fix.md",
-    "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
-    "Unreal Engine/Rendering/Mesh Slicing Material.md",
-    "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md",
-    "Unreal Engine/Pipeline & Plugins/搭建可運行Python的編輯器環境.md",
-    "Unreal Engine/Rendering",
-=======
-    "Unreal Engine/Pipeline & Plugins/使用Python在Editor Toolbar拓展新的按鈕.md",
-    "Unreal Engine/Pipeline & Plugins/在Editor Toolbar使用自定義的Icon.md",
-    "Archives/Images/20230830_87815165.png",
-    "Archives/Images/2023-08-30 2156445455.png",
-    "Unreal Engine/Pipeline & Plugins/透過Asset Guideline加載plugins和project settings.md",
-    "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
-    "Programming/Source Control/Github/取得Github帳號Token.md",
-    "OS/MacOS/Mac截圖路徑、格式、預設檔名修改.md",
-    "OS/MacOS/Mac顯示隱藏檔案和資料夾.md",
-    "Unreal Engine/Rendering/讓3D Widget總是渲染在畫面最上層.md",
-    "Unreal Engine/Platform & Builds/UE5 GPU Crashed or D3D Device Removed Fix.md",
-    "Unreal Engine/Pipeline & Plugins/搭建可運行Python的編輯器環境.md",
-    "Unreal Engine/Pipeline & Plugins/創建可在Editor模式下Tick的Blueprint.md",
-    "Unreal Engine/Rendering/Texture Bombing Material Function.md",
-    "Unreal Engine/Rendering/Rotation Aligned World Space Texture Projection.md",
-    "Unreal Engine/Rendering/Mesh Slicing Material.md",
-    "Archives/Images/20230824_3257485315.png",
-    "Archives/Images/20230824_2478465245.png",
-    "Archives/Images/20230824_15452154.jpg",
-    "Archives/Images/3dwidgetfix.jpg",
-    "README.md",
-    "Programming/Source Control/Git/Generating a new SSH key.md",
-    "Python/使用venv建立Python虛擬環境.md",
-    "Unreal Engine/Pipeline & Plugins",
->>>>>>> d8cb4c004f01710a70b7359066889ae0fa4b3380
-    "Unreal Engine/Platform & Builds",
-    "Unreal Engine/Pipeline & Plugins",
-    "Unreal Engine",
-    "Python",
-    "Programming/Source Control/Github/取得Github帳號Token.md",
-    "Programming/Source Control/Git/Generating a new SSH key.md",
-    "Programming/Source Control/Github",
-    "Programming/Source Control/Git",
-    "Programming/Source Control",
-    "Programming",
-    "Archives/Images/T_Voronoi_Perturbed_4k.PNG",
-    "Archives/Images/2023-08-10 223754.png",
-    "Archives/Images/2023-08-10 223246.png",
-    "Archives/Images/2023-08-10 215357.png",
-    "Mobile App/Flutter/在Windows中架設Flutter開發環境.md",
-<<<<<<< HEAD
-    "Unreal Engine/Programming & Scripting/透過Asset Guideline加載plugins和project settings.md",
-    "Unreal Engine/Shader/Mesh Slicing Material.md",
-    "Unreal Engine/Shader",
-    "Archives/Images/2023_07_29_18_37_00_828.gif",
-    "Archives/Images/2023-08-01 222408.png",
-    "Archives/Images/2023-08-01 222357.png",
-    "Archives/Images/2023-08-01 222345.png",
-    "Archives/Images/2023-08-01 222331.png",
-    "Archives/Images/2023-08-01 222206.png",
-    "Source Control/Github/取得Github帳號Token.md",
-    "Productivity/使用PicGo快速上傳圖片到預設圖床.md",
-    "Source Control/Git/Generating a new SSH key.md",
-=======
-    "Unreal Engine/Rendering",
-    "Unreal Engine/Programming & Scripting",
-    "Unreal Engine",
-    "Programming/Source Control/Github",
->>>>>>> d8cb4c004f01710a70b7359066889ae0fa4b3380
-    "Hardware/VR HMD/Use HTC Vive Tracker Without HMD.md",
-    "Obsidian/test.md",
-    "Archives/Image/README.md",
-    "Archives/Images/README.md",
-<<<<<<< HEAD
-    "README.md",
-=======
-    "Unreal Engine/Untitled.md",
->>>>>>> d8cb4c004f01710a70b7359066889ae0fa4b3380
-    "未命名.canvas"
-  ]
+  "active": "8bc6f7b3f1d3aaf1",
+  "lastOpenFiles": []
 }
