@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-emoji-toolbar",
-  "cm-editor-syntax-highlight-obsidian"
+  "obsidian-emoji-toolbar"
 ]
