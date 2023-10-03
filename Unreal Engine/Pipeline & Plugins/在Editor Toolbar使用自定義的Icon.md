@@ -13,7 +13,7 @@ tags:
 <br>
 
 創建一個新的 plugin 後，在 Build.cs 中新增 `Projects` module
-```
+```c++
 //Build.cs
 PrivateDependencyModuleNames.AddRange(
 	new string[]
@@ -29,7 +29,7 @@ PrivateDependencyModuleNames.AddRange(
 ```
 
 創建 MyStyle.h 和 MyStyle.cpp
-```
+```c++
 //MyStyle.h
 #pragma once
 
@@ -54,7 +54,7 @@ private:
 };
 ```
 
-```
+```c++
 //MyStyle.cpp
 #include "Style.h"
 
@@ -109,7 +109,7 @@ TSharedRef<class FSlateStyleSet> FMyStyle::Create()
 <br>
 
 接著到 Plugin.cpp
-```
+```c++
 //MyPlugin.cpp
 #include "MyXRPlugin.h"
 
