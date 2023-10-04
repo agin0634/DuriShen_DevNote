@@ -13,7 +13,7 @@ tags:
 <br>
 
 創建一個新的 plugin 後，在 Build.cs 中新增 `Projects` module
-```
+```cpp
 //Build.cs
 PrivateDependencyModuleNames.AddRange(
 	new string[]
@@ -109,7 +109,7 @@ TSharedRef<class FSlateStyleSet> FMyStyle::Create()
 <br>
 
 接著到 Plugin.cpp
-```
+```cpp
 //MyPlugin.cpp
 #include "MyXRPlugin.h"
 
