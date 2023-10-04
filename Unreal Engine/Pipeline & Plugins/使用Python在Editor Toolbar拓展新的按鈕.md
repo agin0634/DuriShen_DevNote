@@ -9,7 +9,7 @@ tags : UE5 Editor Python Slate
 
 創建一個 `init_unreal.py`
 
-```
+```python
 # init_unreal.py
 import unreal
 

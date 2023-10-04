@@ -29,7 +29,7 @@ PrivateDependencyModuleNames.AddRange(
 ```
 
 創建 MyStyle.h 和 MyStyle.cpp
-```
+```cpp
 //MyStyle.h
 #pragma once
 
@@ -54,7 +54,7 @@ private:
 };
 ```
 
-```
+```cpp
 //MyStyle.cpp
 #include "Style.h"
 
