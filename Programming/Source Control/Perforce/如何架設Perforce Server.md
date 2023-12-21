@@ -18,4 +18,5 @@ tags:
 接著點擊 Start 開始安裝
 
 **Step.3 防火牆設定**
-在控制台>系統及>
+在控制台>系統及安全性>Windows Defender
+![2023-12-21 182528](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20182528.png)
