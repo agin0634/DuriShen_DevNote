@@ -12,11 +12,11 @@ tags:
 開啟剛下載好的 helix-core-server-x64.exe。這邊照著預設即可，直接點擊 Next
 ![2023-12-21 180926](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20180926.png)
 
-設定 Server Ip， Port 基本上預設的 1666 即可
+設定 Server IP， Port 基本上預設的 1666 即可
 ![2023-12-21 181241](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20181241.png)
 
 接著點擊 Start 開始安裝
 
 **Step.3 防火牆設定**
-在控制台>系統及安全性>Windows Defender
+在控制台>系統及安全性>Windows Defender 左側欄位找到**進階設定**
 ![2023-12-21 182528](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20182528.png)
