@@ -24,5 +24,5 @@ tags:
 新增一個新增一個輸入規則，選擇連接埠後，下一步
 ![2023-12-21 195558](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20195558.png)
 
-
+上面選擇 TCP 、下面選擇特定連接埠：並輸入安裝時的 Port (基本上是 1666)，再來點擊下一步
 ![2023-12-21 184629](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20184629.png)
