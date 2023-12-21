@@ -13,6 +13,7 @@ tags:
 ![2023-12-21 180926](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20180926.png)
 
 設定 Server IP， Port 基本上預設的 1666 即可
+
 ![2023-12-21 181241](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20181241.png)
 
 接著點擊 Start 開始安裝
