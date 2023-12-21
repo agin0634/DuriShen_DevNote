@@ -1,5 +1,6 @@
 ---
-date : {{date}}
+date : yyyy-mm-dd
 tags : 
 ---
 ---
+start..
