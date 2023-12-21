@@ -10,13 +10,10 @@ tags:
 
 **Step.2 安裝設定**
 開啟剛下載好的 helix-core-server-x64.exe。這邊照著預設即可，直接點擊 Next
+![2023-12-21 180926](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20180926.png)
 
+設定 Server Ip， Port 基本上預設的 1666 即可
 
-設定 Port，基本上預設的 1666 即可
-//圖
-
-這邊也是照預設設定
-//圖
 
 接著點擊 Start 開始安裝
 
