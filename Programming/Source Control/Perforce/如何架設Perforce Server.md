@@ -21,5 +21,8 @@ tags:
 在控制台>系統及安全性>Windows Defender 左側欄位找到**進階設定**
 ![2023-12-21 182528](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20182528.png)
 
-新增一個新增一個輸入規則，
+新增一個新增一個輸入規則，選擇連接埠後，下一步
 ![2023-12-21 195558](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20195558.png)
+
+
+![2023-12-21 184629](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-21%20184629.png)
