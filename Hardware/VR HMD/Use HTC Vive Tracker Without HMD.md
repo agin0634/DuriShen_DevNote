@@ -32,4 +32,5 @@ tags : Hardware VR Vive
 ## 開啟SteamVR並連結Tracker
 
 開啟SteanVR後會看到此畫面
+
 ![ImagesPasted image 202307210145s077](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/ImagesPasted%20image%20202307210145s077.png)
