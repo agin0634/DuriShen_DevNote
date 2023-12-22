@@ -10,3 +10,20 @@ tags:
 //圖
 
 購買 License 後會得的一個文件如下
+
+//圖
+
+將其改名為 `license` （沒有副檔名）
+
+//圖
+
+再將其放入 Perforce Server 的 database 資料夾
+
+//圖
+
+接著，以管理員權限開啟 CMD 輸入：
+```
+P4 admin restart
+```
+
+
