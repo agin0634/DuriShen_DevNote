@@ -40,7 +40,7 @@ p4 set
 # Ignore this folder
 Build/*
 Saved/*
-!Saved/SaveGames/*       # Don't ignore SaveGames folder in Saved
+!Saved/SaveGames/*       # Don't ignore SaveGames folder in Saved folder
 
 # Ignore this files
 *.slo
