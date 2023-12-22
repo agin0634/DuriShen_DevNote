@@ -10,7 +10,9 @@ tags : UE4 UE5 Shader Widget
 <br>
 
 找到 Widget 的材質球
+
 ![20230824_3257485315](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/20230824_3257485315.png)
 
 將材質球的 Blend Mode 改為 `Translucent`，並將 Translucency>Disable Depth Test 改為 `True`
+
 ![20230824_2478465245](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/20230824_2478465245.png)
