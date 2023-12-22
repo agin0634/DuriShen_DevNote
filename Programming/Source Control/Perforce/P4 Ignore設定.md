@@ -9,7 +9,7 @@ tags:
 開啟 CMD 輸入:
 **絕對路徑指定**
 ```
-p4 set P4IGNORE=C:\myP4.p4ignore
+p4 set P4IGNORE=C:\myP4Setting\.p4ignore
 ```
 - 優點：過濾文件可以放在硬碟任意位置
 - 缺點：只能指定一個過濾文件
@@ -32,3 +32,11 @@ p4 set
 <br>
 
 ## Ignore 文件編輯
+- (#) 是註解
+- (!) 是指定不被過濾
+- (\*) 是通配符號
+
+```
+# Ignore this files
+Build/*
+```
