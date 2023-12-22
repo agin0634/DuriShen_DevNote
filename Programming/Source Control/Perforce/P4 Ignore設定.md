@@ -18,7 +18,7 @@ p4 set P4IGNORE=.p4ignore
 ```
 p4 set P4IGNORE=.p4ignore
 ```
-- 優點：可指定多ㄜ
+- 優點：可指定多個過濾文件
 - 缺點：過濾文件只能放在 Workspace 路徑中
 <br>
 
