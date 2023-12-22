@@ -5,6 +5,12 @@ tags:
   - Perforce
 ---
 ---
+## 指定.p4ignore
+開啟 CMD
+<br>
+
 ## 絕對路徑指定.p4ignore
 
 ## 文件名指定.p4ignore
+
+## Ignore 文件編輯
