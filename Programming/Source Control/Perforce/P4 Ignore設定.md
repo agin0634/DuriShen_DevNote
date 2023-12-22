@@ -11,6 +11,7 @@ tags:
 ```
 p4 set P4IGNORE=.p4ignore
 ```
+- 優點：可
 
 **文件名指定**
 ```
@@ -18,8 +19,5 @@ p4 set P4IGNORE=.p4ignore
 ```
 <br>
 
-## 絕對路徑指定.p4ignore
-
-## 文件名指定.p4ignore
 
 ## Ignore 文件編輯
