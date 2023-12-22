@@ -25,5 +25,6 @@ tags:
 ```
 P4 admin restart
 ```
+> 若 CMD 指令無效，理論上重開機後 Helix Server 也會重啟
 
-
+重啟成功後回到 P4admin 就會看到 License 更新了
