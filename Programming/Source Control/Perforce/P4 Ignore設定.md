@@ -5,4 +5,6 @@ tags:
   - Perforce
 ---
 ---
-## 絕對路徑指定
+## 絕對路徑指定.p4ignore
+
+## 文件名指定.p4ignore
