@@ -21,12 +21,12 @@ p4 set P4IGNORE=.p4ignore
 - 優點：可指定多個過濾文件
 - 缺點：過濾文件只能放在 Workspace 路徑中
 
-再輸入
+若想確認是否指定成功，再輸入
 ```
 p4 set
 ```
+![2023-12-22 180340](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-22%20180340.png)
 
 <br>
-
 
 ## Ignore 文件編輯
