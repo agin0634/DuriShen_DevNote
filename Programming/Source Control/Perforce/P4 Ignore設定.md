@@ -37,6 +37,14 @@ p4 set
 - (\*) 是通配符號
 
 ```
-# Ignore this files
+# Ignore this folder
 Build/*
+Saved/*
+!Saved/SaveGames/*       # Don't ignore SaveGames folder in Saved
+
+# Ignore this files
+*.slo
+*.lo
+*.o
+*.obj
 ```
