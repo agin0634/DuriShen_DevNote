@@ -9,3 +9,6 @@ tags:
 
 ![2023-12-26 123342](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-26%20123342.png)
 
+若沒有 `User` 可點選 User 創建一個新的
+
+![2023-12-26 175702](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-26%20175702.png)
