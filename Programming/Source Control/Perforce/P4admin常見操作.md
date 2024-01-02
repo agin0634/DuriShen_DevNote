@@ -25,7 +25,7 @@ tags:
 
 ![2024-01-02 111211](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20111211.png)
 
-在 Group 工作區空白處點擊右鍵可新增用戶
+在 Group 工作區空白處點擊右鍵可新增群組
 
 ![2024-01-02 112334](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20112334.png)
 
