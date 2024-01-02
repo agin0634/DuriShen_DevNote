@@ -62,7 +62,7 @@ tags:
 <br>
 
 ## 提交版本（Submit）
-Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一個 Changelist 中
+Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一個 Changelist 中
 
 尚未提交的 Changelist 會先存放在 Pending 的頁面中
 
@@ -72,8 +72,15 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一�
 
 ![2024-01-02 193619](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20193619.png)
 
-填入備註後再點擊 Submit
+填入備註後再點擊 `Submit`
+
 ![2024-01-02 193848](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20193848.png)
+
+提交成功後即可在 History 頁面看到剛提交的版本
+
+![2024-01-02 194100](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20194100.png)
+<br>
+
 ## 編輯 Workspace 文件
 在 Workspace 環境下對於任何文件的編輯，都須透過這3動作完成，否則將不會紀錄在 Changelist 中，因此會造成 Workspace 和 Depot 上檔案不同步
 ### 新增文件（Mark for add）
