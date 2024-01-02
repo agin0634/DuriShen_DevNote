@@ -35,7 +35,7 @@ tags:
 
 ![2024-01-02 171518](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20171518.png)
 
-點擊 Advanced 頁面，將 `Rmdir` 打勾；`On submit` 改成 `Don't submit unchanged files`（可依照使用習慣）
+點擊 Advanced 頁面，將 `Rmdir` 打勾；`On submit` 改成 `Don't submit unchanged files`（依照使用習慣）
 
 ![2024-01-02 182106](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20182106.png)
 <br>
