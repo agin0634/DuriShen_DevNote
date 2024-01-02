@@ -40,6 +40,10 @@ tags:
 ![2024-01-02 182106](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20182106.png)
 <br>
 
+## dfij
+
+
+
 ## 編輯 Workspace 中文件
 在 Workspace 環境下對於任何文件的編輯，都須透過這3動作完成，否則將不會紀錄在 Changelist 中，因此會造成 Workspace 和 Depot 上檔案不同步
 ### 新增文件（Mark for add）
