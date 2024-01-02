@@ -62,7 +62,7 @@ tags:
 <br>
 
 ## 提交版本（Submit）
-Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一個 Changelist 中
+Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一個 Changelist 中，而一個 Changelist 可以看作為一個版本
 
 尚未提交的 Changelist 會先存放在 Pending 的頁面中
 
