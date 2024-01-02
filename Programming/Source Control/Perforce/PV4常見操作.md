@@ -53,9 +53,11 @@ tags:
 
 ![2024-01-02 191415](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20191415.png)
 
-有時因為 Perforce 出現問題或操作不當導致文件沒更新，可勾選下方 `Force Operation` ，這樣會強制獲取 Depot 上指定的版本覆蓋 Workspace 的版本
+有時因為 Perforce 出現問題或操作不當導致文件沒更新，可勾選下方 `Force Operation` ，這樣會強制獲取 Depot 上的版本覆蓋 Workspace 的版本
 
 ![2024-01-02 191847](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20191847.png)
+
+> [!warning]- 提交版本或是編輯文件前，請記得先獲取最新版本
 <br>
 ## 提交版本（Submit）
 Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一個 Changelist 中
