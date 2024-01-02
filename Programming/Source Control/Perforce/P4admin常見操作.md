@@ -50,3 +50,7 @@ tags:
 選擇 Depot 的類型
 
 ![2024-01-02 140831](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20140831.png)
+
+對檔案點擊右鍵點選 Obliterate 可刪除該檔案
+
+![2024-01-02 141703](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20141703.png)
