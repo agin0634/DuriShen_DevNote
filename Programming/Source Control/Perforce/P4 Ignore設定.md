@@ -38,8 +38,24 @@ p4 set
 
 ![2024-01-02 142941](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20142941.png)
 
+創建一個新的文字文件 `.p4ignore`
 
+![2024-01-02 143351](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20143351.png)
 
+編輯
+```
+# User-specific folders or temporary files that should not be versioned.
+    Saved/
+    Intermediate/
+    DerivedDataCache/
+    FileOpenOrder/
+    obj/
+# Certain file types that should not be versioned.
+    *.pdb
+    *-Debug.*
+# Visual Studio user settings files that should be ignored.
+    .vs/
+```
 <br>
 
 ## Ignore 文件編輯
