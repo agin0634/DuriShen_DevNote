@@ -34,4 +34,7 @@ tags:
 ![2024-01-02 112624](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20112624.png)
 
 ## 權限管理
-在 `Permission` 頁籤
+在 `Permission` 頁籤下方點擊 Insert line
+
+![2024-01-02 114112](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20114112.png)
+
