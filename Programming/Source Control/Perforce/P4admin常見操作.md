@@ -43,5 +43,10 @@ tags:
 ![2024-01-02 114422](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20114422.png)
 
 ## Depot 管理
-點擊左上角 File>New>Depot 
+點擊左上角 File>New>Depot 創建新 Depot
+
 ![2024-01-02 120316](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20120316.png)
+
+選擇 Depot 的類型
+
+![2024-01-02 140831](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20140831.png)
