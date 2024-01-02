@@ -69,7 +69,7 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一�
 ![2024-01-02 192940](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20192940.png)
 
 
-## 編輯 Workspace 中文件
+## 編輯 Workspace 文件
 在 Workspace 環境下對於任何文件的編輯，都須透過這3動作完成，否則將不會紀錄在 Changelist 中，因此會造成 Workspace 和 Depot 上檔案不同步
 ### 新增文件（Mark for add）
 新增 Depot 上沒有的文件
