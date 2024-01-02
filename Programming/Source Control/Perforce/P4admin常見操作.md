@@ -17,7 +17,7 @@ tags:
 ## 用戶與群組管理
 在 `Users & Groups` 頁籤可以新增或編輯用戶，或創建群組以便共同管理
 
-在 User空白處點擊右鍵可新增用戶
+在 User 工作區空白處點擊右鍵可新增用戶
 
 ![2024-01-02 110912](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20110912.png)
 
