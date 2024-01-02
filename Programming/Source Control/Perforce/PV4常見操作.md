@@ -52,6 +52,10 @@ tags:
 或選擇 `Get Revision` 來指定抓取的版本，一般用於退回某個版本
 
 ![2024-01-02 191415](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20191415.png)
+
+若
+
+![2024-01-02 191847](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20191847.png)
 <br>
 ## 提交版本（Submit）
 Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一個 Changelist 中
