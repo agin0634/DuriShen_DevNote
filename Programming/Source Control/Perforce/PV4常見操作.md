@@ -26,6 +26,6 @@ tags:
 - ![p4v-button-clear-mapping_25x15](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/p4v-button-clear-mapping_25x15.webp) Clear
 
 以下圖為例：
-`RnD_One_Depot`（綠勾） 代表我有映射整個 Depot
+`RnD_One_Depot`（綠勾） 代表我有映射整個 Depot，而在 RnD_One_Depot 下的 `Folder01`（黑勾）則默認有映射；`Folder`
 
-![2024-01-02 164205](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20164205.png)
+![2024-01-02 164749](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20164749.png)
