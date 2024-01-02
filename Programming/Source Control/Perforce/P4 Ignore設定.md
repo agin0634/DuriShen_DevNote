@@ -62,8 +62,12 @@ p4 set
 
 ![2024-01-02 143856](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20143856.png)
 
-在 Pending 頁面點選
+在 Pending 頁面選到剛剛 add 的文件點擊右鍵點選 Submit
+
 ![2024-01-02 144159](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20144159.png)
+
+dw
+![2024-01-02 144726](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20144726.png)
 <br>
 
 ## Ignore 文件編輯
