@@ -16,5 +16,5 @@ tags:
 
 填入 `Workspace name` 和 `Workspace root`
 > 建議範例：
-> 
-![2024-01-02 154053](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20154053.png)
+
+
