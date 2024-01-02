@@ -42,7 +42,14 @@ tags:
 
 ## 獲取版本（Get Revision）
 若文件旁出現黃色驚嘆號圖示，代表 Workspace 與 Depot 文件版本不一致
+
 ![2024-01-02 185002](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20185002.png)
+
+選取資料夾或文件右鍵選擇 `Get Latest Revision` 來抓取 Depot 上的最新版本
+
+![2024-01-02 191119](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20191119.png)
+
+
 <br>
 ## 提交版本（Submit）
 Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一個 Changelist 中
