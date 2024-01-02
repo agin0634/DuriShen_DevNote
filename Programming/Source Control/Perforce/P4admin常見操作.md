@@ -29,5 +29,6 @@ tags:
 
 ![2024-01-02 111720](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20111720.png)
 
-點擊 `Browse` 
+點擊 `Browse` 選擇要加入
+
 ![2024-01-02 112056](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20112056.png)
