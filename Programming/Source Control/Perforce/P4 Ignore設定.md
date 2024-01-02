@@ -61,6 +61,9 @@ p4 set
 回到 P4V，點選在 Workspace 下的 .p4ignore，在點擊 Mark for add
 
 ![2024-01-02 143856](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20143856.png)
+
+在 Pending 頁面點選
+![2024-01-02 144159](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20144159.png)
 <br>
 
 ## Ignore 文件編輯
