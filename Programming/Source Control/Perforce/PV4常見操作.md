@@ -57,8 +57,10 @@ tags:
 
 ![2024-01-02 191847](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20191847.png)
 
-> [!warning]- 提交版本或是編輯文件前，請記得先獲取最新版本
+> [!warning] 提交版本或是編輯文件前，請記得先獲取最新版本
+
 <br>
+
 ## 提交版本（Submit）
 Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一個 Changelist 中
 
