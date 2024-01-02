@@ -95,3 +95,10 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 ### 刪除文件（Mark for delete）
 刪除 Depot 上的文件
 ### 修改文件（Checkout）
+hdkjlkd
+<br>
+## 撤回未提交修改（Revert）
+dkwjdkwejdklew
+
+<br>
+## 
