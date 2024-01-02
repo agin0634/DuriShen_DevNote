@@ -27,7 +27,7 @@ tags:
 
 點擊左上角圖示新建群組
 
-![2024-01-02 111720](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20111720.png)
+![2024-01-02 112334](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20112334.png)
 
 點擊 `Browse` 選擇要加入群組的用戶
 
