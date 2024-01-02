@@ -14,6 +14,8 @@ tags:
 
 ![2023-12-26 175702](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-26%20175702.png)
 
+<br>
+
 ## 用戶與群組管理
 在 `Users & Groups` 頁籤可以新增或編輯用戶，或創建群組以便共同管理
 
@@ -33,6 +35,8 @@ tags:
 
 ![2024-01-02 112624](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20112624.png)
 
+<br>
+
 ## 權限管理
 在 `Permission` 頁籤下方點擊 Insert line
 
@@ -41,6 +45,8 @@ tags:
 選擇權限等級和指定的對象，然後在 `Name` 那格填上用戶或群組名字
 
 ![2024-01-02 114422](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20114422.png)
+
+<br>
 
 ## Depot 管理
 點擊左上角 File>New>Depot 創建新 Depot
