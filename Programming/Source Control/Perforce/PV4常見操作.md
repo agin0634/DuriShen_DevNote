@@ -35,6 +35,9 @@ tags:
 
 ![2024-01-02 171518](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20171518.png)
 
+點擊 Advanced 頁面，將 `Rmdir` 打勾；`On submit` 改成 `Don't submit unchanged files`（可依照使用習慣）
+
+![2024-01-02 182106](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20182106.png)
 <br>
 
 ## 編輯 Workspace 中文件
@@ -45,6 +48,9 @@ tags:
 下圖中 `File01-1.txt` 圖示有綠燈，代表有在 Depot 上
 
 ![2024-01-02 180254](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20180254.png)
+
+啊啊
+
 ### 刪除文件（Mark for delete）
 刪除 Depot 上的文件
 ### 修改文件（Checkout）
