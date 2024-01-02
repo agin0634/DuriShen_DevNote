@@ -14,4 +14,17 @@ tags:
 
 ![2023-12-26 175702](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-26%20175702.png)
 
-## 
+## 用戶與群組管理
+在 `Users & Groups` 頁籤可以新增或編輯用戶，或創建群組以便共同管理
+
+在空白處點擊右鍵可新增用戶
+
+![2024-01-02 110912](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20110912.png)
+
+對用戶點擊右鍵可編輯或刪除用戶
+
+![2024-01-02 111211](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20111211.png)
+
+點擊左上角圖示新建群組
+
+![2024-01-02 111720](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20111720.png)
