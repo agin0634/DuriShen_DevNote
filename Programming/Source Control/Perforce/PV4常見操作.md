@@ -31,4 +31,4 @@ tags:
 
 ![2024-01-02 164749](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20164749.png)
 
-值得注意的是 `Folder03` 雖然有映射，但右方 Client 路徑錯了
+值得注意的是 `Folder03` 雖然有映射，但右方 Client 端路徑錯了，不確定是否是 bug，
