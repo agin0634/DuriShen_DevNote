@@ -40,7 +40,9 @@ tags:
 ![2024-01-02 182106](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20182106.png)
 <br>
 
-## dfij
+## 獲取版本
+若文件旁出現黃色驚嘆號圖示，代表
+![2024-01-02 185002](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20185002.png)
 
 
 
