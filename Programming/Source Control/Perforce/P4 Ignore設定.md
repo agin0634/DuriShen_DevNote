@@ -42,7 +42,8 @@ p4 set
 
 ![2024-01-02 143351](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20143351.png)
 
-編輯
+編輯 Ignore 文件
+**Unreal Engine Ignore File Example:**
 ```
 # User-specific folders or temporary files that should not be versioned.
     Saved/
