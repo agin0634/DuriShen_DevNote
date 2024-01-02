@@ -34,6 +34,10 @@ p4 set
 <br>
 
 ## 創建 Ignore 文件
+若是使用 `文件名指定` 的方式，在 Workspace Root 資料夾下任一路徑點擊右鍵，在點選 Show in Explorer
+
+![2024-01-02 142941](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20142941.png)
+
 
 
 <br>
