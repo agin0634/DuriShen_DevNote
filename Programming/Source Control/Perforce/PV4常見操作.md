@@ -44,7 +44,8 @@ tags:
 若文件旁出現黃色驚嘆號圖示，代表 Workspace 與 Depot 文件版本不一致
 ![2024-01-02 185002](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20185002.png)
 <br>
-## 提交版本
+## 提交版本（Submit）
+Perforce 提交是以 Changelist 為單位，修改過的文件會存放在一個 Changelist 中
 
 
 ## 編輯 Workspace 中文件
