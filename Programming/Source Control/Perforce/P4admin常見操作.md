@@ -29,8 +29,9 @@ tags:
 
 ![2024-01-02 112334](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20112334.png)
 
-點擊 `Browse` 選擇要加入群組的用戶
+點擊 Browse 選擇要加入群組的用戶
 
 ![2024-01-02 112624](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20112624.png)
 
 ## 權限管理
+在 `Permission` 頁籤
