@@ -43,3 +43,5 @@ tags:
 ![2024-01-02 114422](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20114422.png)
 
 ## Depot 管理
+點擊左上角 File > New >
+![2024-01-02 120316](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20120316.png)
