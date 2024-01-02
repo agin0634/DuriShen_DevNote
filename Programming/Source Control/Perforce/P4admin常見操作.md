@@ -38,3 +38,6 @@ tags:
 
 ![2024-01-02 114112](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20114112.png)
 
+選擇權限等級和指定的對象，然後在 `Name` 那格填上用戶或群組名字
+
+![2024-01-02 114422](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20114422.png)
