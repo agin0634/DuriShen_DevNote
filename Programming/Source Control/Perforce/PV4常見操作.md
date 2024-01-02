@@ -42,7 +42,7 @@ tags:
 ### 新增文件（Mark for add）
 新增 Depot 上沒有的文件
 
-下圖中 `File01-1.txt` 圖示有綠燈，代表有
+下圖中 `File01-1.txt` 圖示有綠燈，代表有在 Depot 上
 
 ![2024-01-02 180254](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20180254.png)
 ### 刪除文件（Mark for delete）
