@@ -38,6 +38,7 @@ tags:
 <br>
 
 ## ddd
+在 Workspace 環境下對於任何文件的編輯，都須透過這3動作完成，否則將不會紀錄在 Changelsit
 ### Mark for add
-### ddd
-### fff
+### Mark for delete
+### Checkout
