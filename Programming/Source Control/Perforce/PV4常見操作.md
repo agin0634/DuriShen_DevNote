@@ -153,6 +153,8 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-03 191918](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20191918.png)
 
+版本衝突解決完後，就可以 Submit 了
+
 ### 復原版本（Undo Change）
 dffdsf
 
@@ -167,7 +169,7 @@ dffdsf
 
 ![2024-01-03 192517](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192517.png)
 
-視窗下方有4個選項，`Accept Source` 代表選擇 Depot 上的版本，`Accept Target` 代表選擇 Workspace 上的版本
+視窗下方有幾個選項，`Accept Source` 代表選擇 Depot 上的版本，`Accept Target` 代表選擇 Workspace 上的版本，點擊其中一個後版本衝突就解決了
 
 ![2024-01-03 192802](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192802.png)
 
