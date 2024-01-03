@@ -167,7 +167,9 @@ dffdsf
 
 ![2024-01-03 192517](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192517.png)
 
-視窗下方
+視窗下方有4個選項，`Accept Source` 代表選擇 Depot 上的版本，`Accept Target` 代表選擇 Workspace 上的版本
+
+![2024-01-03 192802](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192802.png)
 
 <br>
 
