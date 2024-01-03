@@ -105,7 +105,8 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 
 ![2024-01-03 115238](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20115238.png)
 ### 修改文件（Check out）
-Perforce 會將有紀錄在 Depot 上文件改成為
+Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必須先取得修改權（Check out）
+
 選取要修改的文件右鍵選擇 `Check out`
 
 ![2024-01-03 121336](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20121336.png)

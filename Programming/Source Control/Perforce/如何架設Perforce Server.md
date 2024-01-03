@@ -45,3 +45,7 @@ tags:
 開啟剛下載好的 p4vinst64.exe。這邊照著預設即可，直接點擊 Next
 
 ![2023-12-26 1254559](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-26%201254559.png)
+
+安裝成功後
+[[P4admin常見操作]]
+[[PV4常見操作]]
