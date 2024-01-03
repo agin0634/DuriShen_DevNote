@@ -100,7 +100,7 @@ hdkjlkd
 ## 撤回未提交修改（Revert）
 可以撤回在 Pending 的 Changelist 中的文件，撤回後文件會回到 Check out 前的版本
 
-對著 Changelist 或文件右鍵點選 `Revert Files`
+對著 Changelist 或文件右鍵點選 `Revert Files`，也可點選 `Revert Unchanged Files` 將未更動的文件撤回
 
 ![2024-01-03 114014](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20114014.png)
 <br>
@@ -113,5 +113,6 @@ dffdsf
 djiwqjdiwj
 
 <br>
+
 ## 版本檢查（Reconcile Offline Work）
 20i0e3
