@@ -105,7 +105,12 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 ![2024-01-03 115238](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20115238.png)
 ### 修改文件（Check out）
 選取要修改的文件右鍵選擇 `Check out`
+
 ![2024-01-03 121336](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20121336.png)
+
+該文件會加到你選擇的 Pending Changelist，且多了一個紅色勾勾的圖示
+
+![2024-01-03 121531](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20121531.png)
 <br>
 ## 撤回未提交修改（Revert）
 可以撤回在 Pending 的 Changelist 中的文件，撤回後文件會回到 Check out 前的版本
