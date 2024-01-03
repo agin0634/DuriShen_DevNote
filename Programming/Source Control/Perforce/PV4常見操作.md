@@ -89,8 +89,12 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 
 ![2024-01-02 180254](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20180254.png)
 
-啊啊
+選取要新增的文件右鍵選擇 `Mark for Add`
+![2024-01-03 120537](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20120537.png)
 
+該文件會加到你選擇的 Pending Changelist，且多了一個紅色加號的圖示
+
+![2024-01-03 120657](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20120657.png)
 ### 刪除文件（Mark for delete）
 選取要刪除的文件右鍵選擇 `Mark for Delete`
 
