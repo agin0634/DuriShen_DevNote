@@ -129,8 +129,10 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-03 184728](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20184728.png)
 
-
+選擇想要退回的版本號後點擊 Get Revision
 ![2024-01-03 185004](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20185004.png)
+
+
 ### 復原版本（Undo Change）
 dffdsf
 
