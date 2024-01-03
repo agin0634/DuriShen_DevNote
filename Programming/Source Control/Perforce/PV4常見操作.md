@@ -141,8 +141,15 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-03 191341](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20191341.png)
 
-在 
+此時要 Submit Changelist 時會跳出版本不是最新版的警告
+
+![2024-01-03 191618](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20191618.png)
+
+回到 Pending 頁面選取該文件右鍵選擇 `Get Latest Revision`
+
 ![2024-01-03 191501](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20191501.png)
+
+
 
 ### 復原版本（Undo Change）
 dffdsf
