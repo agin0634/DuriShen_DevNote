@@ -98,7 +98,7 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 hdkjlkd
 <br>
 ## 撤回未提交修改（Revert）
-dkwjdkwejdklew
+可以撤回在 Pending 頁面中對著要撤回的
 ddd
 <br>
 ## 退回先前版本
