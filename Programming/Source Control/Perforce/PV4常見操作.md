@@ -149,14 +149,15 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-03 191501](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20191501.png)
 
-
+接著會跳出紅色問號的圖示，解決方法見[[#版本衝突]]
+![2024-01-03 191918](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20191918.png)
 
 ### 復原版本（Undo Change）
 dffdsf
 
 <br>
 ## 版本衝突（Resolve）
-djiwqjdiwj
+djiwqjdiwjff
 
 <br>
 
