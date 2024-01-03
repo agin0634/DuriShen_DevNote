@@ -163,6 +163,12 @@ dffdsf
 
 ![2024-01-03 192329](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192329.png)
 
+接著會跳出一個視窗，視窗左邊代表文件在 Workspace 的版本，右邊代表文件在 Depot 的最新版本
+
+![2024-01-03 192517](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192517.png)
+
+視窗下方
+
 <br>
 
 ## 版本檢查（Reconcile Offline Work）
