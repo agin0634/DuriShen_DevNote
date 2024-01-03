@@ -90,6 +90,7 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 ![2024-01-02 180254](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20180254.png)
 
 選取要新增的文件右鍵選擇 `Mark for Add`
+
 ![2024-01-03 120537](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20120537.png)
 
 該文件會加到你選擇的 Pending Changelist，且多了一個紅色加號的圖示
@@ -104,6 +105,7 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 
 ![2024-01-03 115238](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20115238.png)
 ### 修改文件（Check out）
+Perforce 會將有紀錄在 Depot 上文件改成為
 選取要修改的文件右鍵選擇 `Check out`
 
 ![2024-01-03 121336](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20121336.png)
