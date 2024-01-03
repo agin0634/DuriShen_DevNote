@@ -93,15 +93,19 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 啊啊
 
 ### 刪除文件（Mark for delete）
-選取要刪除的文件
+選取要刪除的文件右鍵選擇 `Mark for Delete`
+
 ![2024-01-03 114717](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20114717.png)
+
+該文件會加到你選擇的 C
+![2024-01-03 115238](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20115238.png)
 ### 修改文件（Check out）
 hdkjlkd
 <br>
 ## 撤回未提交修改（Revert）
 可以撤回在 Pending 的 Changelist 中的文件，撤回後文件會回到 Check out 前的版本
 
-對著 Changelist 或文件右鍵點選 `Revert Files`，也可點選 `Revert Unchanged Files` 將未更動的文件撤回，將有更動的文件留在 Changelist
+對著 Changelist 或文件右鍵選擇 `Revert Files`，也可選擇 `Revert Unchanged Files` 將未更動的文件撤回，將有更動的文件留在 Changelist
 
 ![2024-01-03 114014](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20114014.png)
 <br>
