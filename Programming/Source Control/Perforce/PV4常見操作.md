@@ -137,7 +137,7 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-03 185412](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20185412.png)
 
-`Check out` 後會跳出一個視窗，點擊 `Get Latest`
+`Check out` 後會跳出一個視窗，點擊 `Get Latest`。
 
 ![2024-01-03 185834](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20185834.png)
 
