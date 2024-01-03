@@ -135,4 +135,4 @@ djiwqjdiwj
 ## 版本檢查（Reconcile Offline Work）
 有時會忘記對某些文件 `Check out`、`Mark for add`、`Mark for delete`，或 Perforce 出問題導致 Workspace 與 Depot 上文件版本不一致
 
-`Re`
+`Reconile Offline Work` 能很好的解決這問題，該功能能比較 Workspace 和 Depot 目錄中沒有被 `Check out`、`Mark for add`、`Mark for delete` 的文件
