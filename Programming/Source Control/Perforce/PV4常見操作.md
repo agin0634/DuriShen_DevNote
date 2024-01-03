@@ -93,7 +93,8 @@ Perforce 提交是以 Changelist 為單位，修改過的文件會紀錄在一�
 啊啊
 
 ### 刪除文件（Mark for delete）
-刪除 Depot 上的文件
+選取要刪除的文件
+![2024-01-03 114717](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20114717.png)
 ### 修改文件（Check out）
 hdkjlkd
 <br>
