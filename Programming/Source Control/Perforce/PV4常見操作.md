@@ -125,9 +125,15 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 ## 退回先前版本
 想要退回到先前的版本有兩種方式，一種是直接獲取先前的版本（Get Revision），通常是確定某個版本的文件是想退回的版本時使用；另一種是復原版本（Undo Change），通常是確定某次版本修改了什麼而想要復原其動作時使用，兩種方式結果相同，只是使用的情境不一樣
 ### 獲取指定版本（Get Revision）
-ddddd
+選取想獲取指定版本的文件右鍵選擇 `Get Revision`
+
+![2024-01-03 184728](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20184728.png)
+
+
+![2024-01-03 185004](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20185004.png)
 ### 復原版本（Undo Change）
 dffdsf
+
 <br>
 ## 版本衝突（Resolve）
 djiwqjdiwj
