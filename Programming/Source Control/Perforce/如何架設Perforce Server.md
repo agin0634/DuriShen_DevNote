@@ -46,6 +46,6 @@ tags:
 
 ![2023-12-26 1254559](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-26%201254559.png)
 
-安裝成功後
-[[P4admin常見操作]]
-[[PV4常見操作]]
+安裝成功後就能開始使用了，操作詳見：
+- [[P4admin常見操作]]
+- [[PV4常見操作]]
