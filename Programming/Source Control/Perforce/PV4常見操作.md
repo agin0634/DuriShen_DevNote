@@ -130,11 +130,17 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 ![2024-01-03 184728](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20184728.png)
 
 選擇想要退回的版本號後點擊 Get Revision
+
 ![2024-01-03 185004](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20185004.png)
 
-這時會看到檔案旁邊出現黃色驚嘆號，代表因為現在 Workspace 的文件退回到舊的版本，所以和 Depot 上最新版不一致
+會看到檔案旁邊出現黃色驚嘆號，代表因為現在 Workspace 的文件退回到舊的版本，所以和 Depot 上最新版不一致。接著，選取該檔案右鍵選擇 `Check out`
 
 ![2024-01-03 185412](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20185412.png)
+
+`Check out` 後會跳出一個視窗，點擊 `Get Latest`
+
+![2024-01-03 185834](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20185834.png)
+
 ### 復原版本（Undo Change）
 dffdsf
 
