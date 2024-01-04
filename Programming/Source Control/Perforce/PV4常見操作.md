@@ -196,3 +196,7 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 有時會忘記對某些文件 `Check out`、`Mark for add`、`Mark for delete`，或 Perforce 出問題導致 Workspace 與 Depot 上文件版本不一致
 
 `Reconile Offline Work` 能很好的解決這問題，該功能能比較 Workspace 和 Depot 目錄中版本不一樣的文件，且可以自動將沒有 `Check out`、`Mark for add`、`Mark for delete` 的文件列出來
+
+選取想檢查的資料夾右鍵選擇 `Reconcile Offline Work`
+
+![2024-01-04 141950](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20141950.png)
