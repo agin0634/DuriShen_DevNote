@@ -156,7 +156,6 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 版本衝突解決完後，就可以 Submit 了
 
 ### 復原版本（Undo Change）
-dffdsf
 
 <br>
 
