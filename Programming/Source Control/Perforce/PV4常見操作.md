@@ -232,4 +232,6 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-04 153727](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20153727.png)
 
-若是別台電腦或是別的 Workspace 想 Unshelve 文件，只能移動到別的 Changelist，
+若是別台電腦或是別的 Workspace 想 Unshelve 文件，只能移動到別的 Changelist，且無法刪除被擱置的檔案（只有進行 Shelve 的那個 Workspace 有權利刪除）
+
+![2024-01-04 153923](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20153923.png)
