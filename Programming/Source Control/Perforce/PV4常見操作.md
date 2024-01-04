@@ -156,8 +156,9 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 版本衝突解決完後，就可以 Submit 了
 
 ### 復原版本（Undo Change）
-選取想復原的版本右鍵選擇 `Undo`
+到 History 頁面，選取想復原的版本右鍵選擇 `Undo Changes in Changelist XX`
 
+![2024-01-04 114422](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20114422.png)
 <br>
 
 ## 版本衝突（Resolve）
