@@ -224,3 +224,11 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-04 152929](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20152929.png)
 
+想獲取被擱置的文件，對其右鍵選擇 `Un`
+![2024-01-04 153333](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20153333.png)
+
+
+
+
+
+![2024-01-04 153140](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20153140.png)
