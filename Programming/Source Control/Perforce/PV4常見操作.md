@@ -217,4 +217,10 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 ![2024-01-04 152559](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20152559.png)
 
 確認文件及選項後點擊 Shelve
+
 ![2024-01-04 152800](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20152800.png)
+
+該文件會被移動到另一個 Changelsit 的 Shelved Files 目錄下
+
+![2024-01-04 152929](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20152929.png)
+
