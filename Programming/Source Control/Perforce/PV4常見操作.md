@@ -168,7 +168,9 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-04 120411](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20120411.png)
 
-若不想復原整個版本而是特定的檔案，可以
+若不想復原整個版本而是特定的檔案，直接選取該檔案右鍵選擇 `Undo Changes`
+
+![2024-01-04 140332](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20140332.png)
 <br>
 
 ## 版本衝突（Resolve）
