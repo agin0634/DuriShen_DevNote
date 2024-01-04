@@ -172,7 +172,7 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 ![2024-01-04 140332](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20140332.png)
 
-再選擇想復原的條件後
+再選擇想復原的條件後點擊 Save to Changelist
 
 ![2024-01-04 141404](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20141404.png)
 <br>
