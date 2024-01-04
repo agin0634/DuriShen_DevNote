@@ -210,4 +210,4 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 ![2024-01-04 143136](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20143136.png)
 <br>
 ## 版本擱置（Shelves）
-當有些版本在本地已經修改了，但想讓別人獲取或是自己暫存
+當有些版本在本地已經修改了，但想讓別人獲取或是自己暫存，卻不想進版時可以使用 `Shelves`。被擱置的版本會上傳到伺服器上但是不會進版，別人或自己可以在從伺服器上拉下來
