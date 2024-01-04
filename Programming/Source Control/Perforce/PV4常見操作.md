@@ -161,6 +161,8 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 ![2024-01-04 114422](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20114422.png)
 
 跳出
+
+![2024-01-04 122254](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20122254.png)
 <br>
 
 ## 版本衝突（Resolve）
