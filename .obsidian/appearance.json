@@ -1,6 +1,8 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 19,
   "cssTheme": "Typewriter",
   "accentColor": "",
-  "monospaceFontFamily": "Inter"
+  "monospaceFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }

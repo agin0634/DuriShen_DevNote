@@ -1,6 +1,11 @@
 ---
-date : 2023-08-29
-tags : UE5 Editor Plugin Slate c++
+date: 2023-08-29
+tags:
+  - UE5
+  - Editor
+  - Plugin
+  - Slate
+  - Cpp
 ---
 ---
 >在 Unreal Editor 中可使用 **FSlateStyleSet** 來新增自定義的 icons 或 thumbnails，以下以在新創建的 plugin 中的 Toolbar 按鈕上使用自定義的 icon 作為範例
@@ -8,7 +13,7 @@ tags : UE5 Editor Plugin Slate c++
 <br>
 
 創建一個新的 plugin 後，在 Build.cs 中新增 `Projects` module
-```
+```cpp
 //Build.cs
 PrivateDependencyModuleNames.AddRange(
 	new string[]
@@ -24,7 +29,7 @@ PrivateDependencyModuleNames.AddRange(
 ```
 
 創建 MyStyle.h 和 MyStyle.cpp
-```
+```cpp
 //MyStyle.h
 #pragma once
 
@@ -49,7 +54,7 @@ private:
 };
 ```
 
-```
+```cpp
 //MyStyle.cpp
 #include "Style.h"
 
@@ -104,7 +109,7 @@ TSharedRef<class FSlateStyleSet> FMyStyle::Create()
 <br>
 
 接著到 Plugin.cpp
-```
+```cpp
 //MyPlugin.cpp
 #include "MyXRPlugin.h"
 
@@ -129,4 +134,5 @@ IMPLEMENT_MODULE(FMyPluginModule, MyPluginModule)
 ```
 
 Compile 後，重啟編輯器
+
 ![20230830_87815165](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/20230830_87815165.png)
