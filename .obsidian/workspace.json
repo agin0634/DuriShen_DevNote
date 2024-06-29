@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16062bff34a5ee11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "992adb1990a15b83",
+  "active": "16062bff34a5ee11",
   "lastOpenFiles": [
     "Unreal Engine/Pipeline & Plugins/使用Python在Editor Toolbar拓展新的按鈕.md",
     "Unreal Engine/Pipeline & Plugins/在Editor Toolbar使用自定義的Icon.md",
