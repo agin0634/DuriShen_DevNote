@@ -26,4 +26,14 @@ tags:
 - Shadow: 前景和被前景影子照射的物體
 - ShadowCatcher: 被前景影子照射的物體
 
+![screenshot 2024-07-06 at 2.29.22 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.29.22%20PM.jpg)
+
+設定好 Comp 攝影機
+
+![screenshot 2024-07-06 at 2.30.24 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.30.24%20PM.jpg)
+
+創建一個新的 Material
+
+![screenshot 2024-07-06 at 2.31.37 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.31.37%20PM.jpg)
+
 
