@@ -46,5 +46,15 @@ tags:
 
 `Shadow` CG Layer 設定 Input Captrue Actors 為 `FG Layer` 和 `ShadowCatcher Layer`
 
+![screenshot 2024-07-06 at 2.37.08 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.37.08%20PM.jpg)
 
+`ShadowCatcher` CG Layer 設定 Input Captrue Actors 為 `ShadowCatcher Layer`
+
+![screenshot 2024-07-06 at 2.38.37 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.38.37%20PM.jpg)
+
+回到 Comp 點開 Preview 就會看到合成結果
+
+![screenshot 2024-07-06 at 2.39.36 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.39.36%20PM.jpg)
+
+調整攝影機角度和燈光就完成了
 
