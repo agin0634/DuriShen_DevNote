@@ -1,6 +1,10 @@
 ---
-date : 2023-08-30
-tags : UE5 Editor Python Slate
+date: 2023-08-30
+tags:
+  - UE5
+  - Python
+  - Slate
+  - EditorScripting
 ---
 ---
 >使用 Python 擴展編輯器雖然沒使用 C++ 來的靈活，但寫起來更簡單且快速 
