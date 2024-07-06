@@ -8,4 +8,4 @@ tags:
   - Compositing
 ---
 ---
-start..
+準備好要做為前景合成的物件和一台攝影機
