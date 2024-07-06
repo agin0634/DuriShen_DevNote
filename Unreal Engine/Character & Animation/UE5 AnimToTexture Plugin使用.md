@@ -3,6 +3,7 @@ date: 2024-07-04
 tags:
   - UE5
   - Animation
+  - Optimization
 ---
 ---
 >AnimTotexture PLugin允許建立動畫靜態網格物體，其外觀和行為類似於骨架網格物體。這在效能最佳化方面尤其重要，因為與靜態網格物件不同，計算和渲染骨架網格物件的動畫對效能要求極高
