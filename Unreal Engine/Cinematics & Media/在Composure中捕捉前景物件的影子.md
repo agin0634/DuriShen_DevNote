@@ -36,4 +36,9 @@ tags:
 
 ![screenshot 2024-07-06 at 2.31.37 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.31.37%20PM.jpg)
 
+放入 Comp 的 Transform Pass，並按照名字設定好 Input Elements
+
+![screenshot 2024-07-06 at 2.32.37 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.32.37%20PM.jpg)
+
+到 `FG` CG Layer 設定 Input Captrue Actors 為 `FG` Layer
 
