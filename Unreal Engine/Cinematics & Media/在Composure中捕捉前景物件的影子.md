@@ -58,6 +58,6 @@ tags:
 
 調整攝影機角度和燈光就完成了
 
-![2024_07_04_18_58_51_112-ezgif.com-video-to-gif-converter | 1280x720](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024_07_04_18_58_51_112-ezgif.com-video-to-gif-converter.gif)
+![2024_07_04_18_58_51_112-ezgif.com-video-to-gif-converter|480x360](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024_07_04_18_58_51_112-ezgif.com-video-to-gif-converter.gif)
 
 
