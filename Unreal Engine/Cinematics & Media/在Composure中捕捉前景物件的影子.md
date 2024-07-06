@@ -40,5 +40,11 @@ tags:
 
 ![screenshot 2024-07-06 at 2.32.37 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.32.37%20PM.jpg)
 
-到 `FG` CG Layer 設定 Input Captrue Actors 為 `FG` Layer
+到 `FG` CG Layer 設定 Input Captrue Actors 為 `FG Layer`
+
+![screenshot 2024-07-06 at 2.35.24 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-06%20at%202.35.24%20PM.jpg)
+
+`Shadow` CG Layer 設定 Input Captrue Actors 為 `FG Layer` 和 `ShadowCatcher Layer`
+
+
 
