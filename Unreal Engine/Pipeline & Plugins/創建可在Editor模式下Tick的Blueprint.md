@@ -1,6 +1,11 @@
 ---
-date : 2023-08-10
-tags : UE4 UE5 Editor Blueprint
+date: 2023-08-10
+tags:
+  - UE4
+  - UE5
+  - Editor
+  - Blueprint
+Version: UE5.1
 ---
 ---
 創建一個類別為 `EditorUtilityBlueprint` 的 Blueprint

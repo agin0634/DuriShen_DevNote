@@ -1,6 +1,11 @@
 ---
-date : 2023-08-16
-tags : UE4 UE5 Shader Texturing
+date: 2023-08-16
+tags:
+  - UE4
+  - UE5
+  - Shader
+  - Texturing
+Version:
 ---
 status::🌱
 ---
