@@ -61,3 +61,9 @@ UVChannel 已被 LightMap 使用
 
 ![screenshot 2024-07-13 at 12.09.10 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.09.10%20PM.jpg)
 
+對著 BP_AnimToTexture 右鍵點選 Run Editor Utility Blueprint 後就會開始烘焙動畫
+
+![screenshot 2024-07-13 at 12.09.54 PM|500](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.09.54%20PM.jpg)
+
+結果:
+
