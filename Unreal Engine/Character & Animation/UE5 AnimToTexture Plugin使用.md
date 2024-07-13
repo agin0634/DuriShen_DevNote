@@ -45,5 +45,19 @@ Mode 中可以選擇 `Bone` 或 `Vertex`。 Bone 是更輕量的選項，因為�
 
 並創建 Material Instance
 
+![screenshot 2024-07-13 at 12.06.06 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.06.06%20PM.jpg)
 
+在 Plugins>AnimToTexture Content>Characters>Mannequin 下會看到轉換用的 Blueprint (BP_AnimToTexture)
+
+依照選擇的模式改線，`BoneDataAsset` 替換成剛創建的 DA。上面有提到被 LightMap 占用的 Channel 無法覆寫，所以我們將 LightMap Channel 移至 Channel2，但要注意 LightMap Channel 改變可能會影響其他使用的地方
+
+![screenshot 2024-07-13 at 12.07.45 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.07.45%20PM.jpg)
+
+UVChannel 已被 LightMap 使用
+
+![screenshot 2024-07-13 at 12.08.21 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.08.21%20PM.jpg)
+
+替換 `Update Material Instance from Data Asset` 中的 Material Instance 成剛創建的 Material Instance
+
+![screenshot 2024-07-13 at 12.09.10 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.09.10%20PM.jpg)
 
