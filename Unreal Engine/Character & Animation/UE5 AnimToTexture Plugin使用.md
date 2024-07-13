@@ -10,3 +10,5 @@ tags:
 
 <br>
 開啟 AnimToTexture Plugin
+
+找到想轉換的 Skeletal Mesh，點擊 `Make Static Mesh` 創建一個新的 Static Mesh
