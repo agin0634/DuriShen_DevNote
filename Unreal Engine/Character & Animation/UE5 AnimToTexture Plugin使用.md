@@ -38,3 +38,12 @@ Mode 中可以選擇 `Bone` 或 `Vertex`。 Bone 是更輕量的選項，因為�
 ![screenshot 2024-07-13 at 12.02.41 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.02.41%20PM.jpg)
 
 將模型的材質球修改成這樣，可直接複製 Plugins 中的
+- Bone Animation
+  ![screenshot 2024-07-13 at 12.04.10 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.04.10%20PM.jpg)
+- Vertex Animation
+  ![screenshot 2024-07-13 at 12.05.09 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2012.05.09%20PM.jpg)
+
+並創建 Material Instance
+
+
+
