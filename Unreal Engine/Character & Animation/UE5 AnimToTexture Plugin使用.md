@@ -67,3 +67,4 @@ UVChannel 已被 LightMap 使用
 
 結果:
 
+![2024_07_08_19_39_23_638-ezgif.com-video-to-gif-converter](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024_07_08_19_39_23_638-ezgif.com-video-to-gif-converter.gif)
