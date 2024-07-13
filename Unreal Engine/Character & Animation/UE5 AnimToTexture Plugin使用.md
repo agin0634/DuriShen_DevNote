@@ -12,3 +12,9 @@ tags:
 開啟 AnimToTexture Plugin
 
 找到想轉換的 Skeletal Mesh，點擊 `Make Static Mesh` 創建一個新的 Static Mesh
+![screenshot 2024-07-13 at 11.54.51 AM|500](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2011.54.51%20AM.jpg)
+
+創建新的 `Anim to Texture Data Asset`
+
+![screenshot 2024-07-13 at 11.56.57 AM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-07-13%20at%2011.56.57%20AM.jpg)
+
