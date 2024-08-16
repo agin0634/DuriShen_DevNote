@@ -13,4 +13,4 @@ status::🌱
 
 <br>
 
-![T_Voronoi_Perturbed_4k|512x512](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/T_Voronoi_Perturbed_4k.PNG)
+![T_Voronoi_Perturbed_4k|512x512](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/T_Voronoi_Perturbed_4k.PNG)
