@@ -8,7 +8,7 @@ ssh-keygen 生成ssh
 $ ssh-keygen
 ```
 
-![Pasted image 20230720003250](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/Pasted%20image%2020230720003250.png)
+![Pasted image 20230720003250](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/Pasted%20image%2020230720003250.png)
 
 進到.ssh/目錄 ls可看到 私鑰、公鑰
 
