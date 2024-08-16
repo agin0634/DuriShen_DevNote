@@ -29,18 +29,18 @@ p4 set P4IGNORE=.p4ignore
 ```
 p4 set
 ```
-![2023-12-22 180340](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2023-12-22%20180340.png)
+![2023-12-22 180340](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2023-12-22%20180340.png)
 
 <br>
 
 ## 創建 Ignore 文件
 若是使用 `文件名指定` 的方式，在 Workspace Root 資料夾下任一路徑點擊右鍵，在點選 Show in Explorer
 
-![2024-01-02 142941](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20142941.png)
+![2024-01-02 142941](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-02%20142941.png)
 
 創建一個新的文字文件 `.p4ignore`
 
-![2024-01-02 143351](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20143351.png)
+![2024-01-02 143351](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-02%20143351.png)
 
 編輯 Ignore 文件
 **Unreal Engine Ignore File Example:**
@@ -60,15 +60,15 @@ p4 set
 
 回到 P4V，點選在 Workspace 下的 .p4ignore，在點擊 Mark for add
 
-![2024-01-02 143856](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20143856.png)
+![2024-01-02 143856](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-02%20143856.png)
 
 在 Pending 頁面選到剛剛 add 的文件點擊右鍵點選 Submit
 
-![2024-01-02 144159](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20144159.png)
+![2024-01-02 144159](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-02%20144159.png)
 
 簡單描述後在點擊 Submit
 
-![2024-01-02 144726](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-02%20144726.png)
+![2024-01-02 144726](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-02%20144726.png)
 <br>
 
 ## Ignore 文件編輯

@@ -170,25 +170,25 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 若不想復原整個版本而是特定的檔案，直接選取該檔案右鍵選擇 `Undo Changes`
 
-![2024-01-04 140332](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20140332.png)
+![2024-01-04 140332](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20140332.png)
 
 再選擇想復原的條件後點擊 Save to Changelist
 
-![2024-01-04 141404](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20141404.png)
+![2024-01-04 141404](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20141404.png)
 <br>
 
 ## 版本衝突（Resolve）
 選取有版本衝突的文件右鍵選擇 `Resolve`
 
-![2024-01-03 192329](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192329.png)
+![2024-01-03 192329](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-03%20192329.png)
 
 接著會跳出一個視窗，視窗左邊代表文件在 Workspace 的版本，右邊代表文件在 Depot 的最新版本
 
-![2024-01-03 192517](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192517.png)
+![2024-01-03 192517](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-03%20192517.png)
 
 視窗下方有幾個選項，`Accept Source` 代表選擇 Depot 上的版本，`Accept Target` 代表選擇 Workspace 上的版本，點擊其中一個後版本衝突就解決了
 
-![2024-01-03 192802](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-03%20192802.png)
+![2024-01-03 192802](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-03%20192802.png)
 
 <br>
 
@@ -199,39 +199,39 @@ Perforce 會將有紀錄在 Depot 上文件改成唯讀，若想修改檔案必�
 
 選取想檢查的資料夾右鍵選擇 `Reconcile Offline Work`
 
-![2024-01-04 141950](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20141950.png)
+![2024-01-04 141950](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20141950.png)
 
 若有找到沒追蹤的檔案會跳出一個視窗，將需要 Reconcile 的文件勾選起來後點擊 Reconcile
 
-![2024-01-04 142731](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20142731.png)
+![2024-01-04 142731](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20142731.png)
 
 檔案就會被加到 Changelist 中
 
-![2024-01-04 143136](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20143136.png)
+![2024-01-04 143136](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20143136.png)
 <br>
 ## 版本擱置（Shelves）
 當有些版本在本地已經修改了，但想讓別人獲取或是自己暫存，卻不想進版時可以使用 `Shelves`。被擱置的版本會上傳到伺服器上但是不會進版，別人或自己可以在從伺服器上拉下來
 
 選取要擱置的文件或 Changelist 右鍵選擇 `Shelve`
 
-![2024-01-04 152559](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20152559.png)
+![2024-01-04 152559](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20152559.png)
 
 確認文件及選項後點擊 Shelve
 
-![2024-01-04 152800](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20152800.png)
+![2024-01-04 152800](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20152800.png)
 
 該文件會被移動到另一個 Changelsit 的 Shelved Files 目錄下
 
-![2024-01-04 152929](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20152929.png)
+![2024-01-04 152929](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20152929.png)
 
 想獲取被擱置的文件，對其右鍵選擇 `Unshelve Files`
 
-![2024-01-04 153333](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20153333.png)
+![2024-01-04 153333](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20153333.png)
 
 可以選擇將文件移動到別的 Changelist 或是繼續留在擱置文件的 Changelist
 
-![2024-01-04 153727](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20153727.png)
+![2024-01-04 153727](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20153727.png)
 
 若是別台電腦或是別的 Workspace 想 Unshelve 文件，只能移動到別的 Changelist，且無法刪除被擱置的檔案（只有進行 Shelve 的那個 Workspace 有權利刪除）
 
-![2024-01-04 153923](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/2024-01-04%20153923.png)
+![2024-01-04 153923](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/2024-01-04%20153923.png)
