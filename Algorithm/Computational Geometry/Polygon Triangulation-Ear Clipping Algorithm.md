@@ -27,7 +27,9 @@ tags:
 <br>
 ## 演算過程
 1. 建立多邊形點的資料結構成 circular linked list
-2. 全舉ㄙ
+2. 窮舉所有點，判斷是否為耳
+3. 若為耳，再判斷是否有組成耳3點以外的點在三角形內
+4. 若無，則切耳，回到
 ## Ref
 [Triangulation by Ear Clipping (geometrictools.com)](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf)
 [triangulation - 演算法筆記 (ntnu.edu.tw)](https://web.ntnu.edu.tw/~algo/Triangulation.html)
