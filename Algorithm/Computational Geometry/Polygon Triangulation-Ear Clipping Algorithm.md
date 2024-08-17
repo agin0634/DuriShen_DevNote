@@ -29,7 +29,10 @@ tags:
 1. 建立多邊形點的資料結構成 circular linked list
 2. 窮舉所有點，判斷是否為耳
 3. 若為耳，再判斷是否有組成耳3點以外的點在三角形內
-4. 若無，則切耳，回到
+4. 若無，則切耳，回到步驟2
+5. 直到剩下最後3個點，此為最後的三角形
+
+![screenshot 2024-08-17 at 1.55.11 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-08-17%20at%201.55.11%20PM.jpg)
 ## Ref
 [Triangulation by Ear Clipping (geometrictools.com)](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf)
 [triangulation - 演算法筆記 (ntnu.edu.tw)](https://web.ntnu.edu.tw/~algo/Triangulation.html)
