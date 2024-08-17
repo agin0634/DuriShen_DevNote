@@ -12,4 +12,7 @@ tags:
 
 ## 定義
 簡單多邊形(Simple Polygon)的定義如下：
-1. 
+1. 由n個頂點組成，n-2個三角形，n-3條對角線
+2. 多邊形內沒有破洞
+3. 每個頂點只有兩條線相連，且線不相交
+![screenshot 2024-08-17 at 1.09.56 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-08-17%20at%201.09.56%20PM.jpg)
