@@ -36,3 +36,4 @@ tags:
 ## Ref
 [Triangulation by Ear Clipping (geometrictools.com)](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf)
 [triangulation - 演算法筆記 (ntnu.edu.tw)](https://web.ntnu.edu.tw/~algo/Triangulation.html)
+[Ear Clipping算法简介-CSDN博客](https://blog.csdn.net/AndrewFan/article/details/103376907)
