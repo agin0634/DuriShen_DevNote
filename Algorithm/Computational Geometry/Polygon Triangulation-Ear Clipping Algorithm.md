@@ -20,6 +20,7 @@ tags:
 
 ![screenshot 2024-08-17 at 1.09.56 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-08-17%20at%201.09.56%20PM.jpg)
 
+耳(ear)
 ## Ref
 [Triangulation by Ear Clipping (geometrictools.com)](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf)
 [triangulation - 演算法筆記 (ntnu.edu.tw)](https://web.ntnu.edu.tw/~algo/Triangulation.html)
