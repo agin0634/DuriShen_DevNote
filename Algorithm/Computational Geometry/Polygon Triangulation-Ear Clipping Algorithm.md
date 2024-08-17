@@ -26,8 +26,8 @@ tags:
 ![screenshot 2024-08-17 at 1.17.49 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/Archives/Images/screenshot%202024-08-17%20at%201.17.49%20PM.jpg)
 <br>
 ## 演算過程
-1. dd
-2. fisi
+1. 建立多邊形點的資料結構成 circular linked list
+2. 全舉ㄙ
 ## Ref
 [Triangulation by Ear Clipping (geometrictools.com)](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf)
 [triangulation - 演算法筆記 (ntnu.edu.tw)](https://web.ntnu.edu.tw/~algo/Triangulation.html)
