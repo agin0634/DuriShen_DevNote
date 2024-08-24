@@ -30,5 +30,6 @@ Version: UE5.3
 2. 執行 Setup.bat，此步驟會下載依賴的檔案，會花一點時間
 3. 執行 GenerateProjectFiles.bat 生成 sln 專案檔
 4. 開啟 UE5.sln，方案組態設定為 `Development Editor`，平台為 `Win64`
-   補圖
+   
+   *補圖*
 5. 
