@@ -23,6 +23,7 @@ Version: UE5.3
 <br>
 ## 安裝 Visual Studio 及相關套件
 先確認下載的 Unreal 版本及其支援的 VS 版本
+
 <br>
 
 # 編譯引擎
@@ -32,4 +33,7 @@ Version: UE5.3
 4. 開啟 UE5.sln，方案組態設定為 `Development Editor`，平台為 `Win64`
    
    *補圖*
-5. 
+5. 設定啟動專案並開始建置
+   
+   *補圖*
+6. 
