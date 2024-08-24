@@ -33,6 +33,7 @@ tags:
 5. 直到剩下最後3個點，此為最後的三角形
 
 ![screenshot 2024-08-17 at 1.55.11 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-08-17%20at%201.55.11%20PM.jpg)
+
 ## Ref
 [Triangulation by Ear Clipping (geometrictools.com)](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf)
 [triangulation - 演算法筆記 (ntnu.edu.tw)](https://web.ntnu.edu.tw/~algo/Triangulation.html)
