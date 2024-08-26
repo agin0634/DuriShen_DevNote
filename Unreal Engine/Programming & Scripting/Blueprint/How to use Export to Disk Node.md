@@ -20,7 +20,7 @@ Version: UE5.3
 
 ![screenshot 2024-07-20 at 2.16.01 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-07-20%20at%202.16.01%20PM.jpg)
 
-自行創建一個 CustomEvent 並加上一個 Boolean 的 input 就解決了
+自行創建一個 CustomEvent 並加上一個 Boolean 的 output 就解決了
 
 ![screenshot 2024-07-20 at 2.16.46 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-07-20%20at%202.16.46%20PM.jpg)
 
