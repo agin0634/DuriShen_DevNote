@@ -33,3 +33,14 @@ Version: UE5.4
 ![screenshot 2024-08-27 at 6.30.11 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-08-27%20at%206.30.11%20PM.jpg)
 <br>
 ## Pawn
+創建一個 Pawn ，創建左右手的 `MotionControllerComponent` 及 `OculusXRHandComponent`
+
+![screenshot 2024-08-28 at 12.05.49 PM | 500](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-08-28%20at%2012.05.49%20PM.jpg)
+
+將 OculusXRHand 下的 `Skeleton Type` 和 `Mesh Type` 改成對應的手
+
+![screenshot 2024-08-28 at 12.07.09 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-08-28%20at%2012.07.09%20PM.jpg)
+
+進遊戲後就會看到預設的手，不須額外套模型
+
+![screenshot 2024-08-28 at 12.07.51 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-08-28%20at%2012.07.51%20PM.jpg)
