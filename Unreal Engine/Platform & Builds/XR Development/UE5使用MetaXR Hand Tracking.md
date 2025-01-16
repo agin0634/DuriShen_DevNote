@@ -28,7 +28,7 @@ Version: UE5.4
 
 ![screenshot 2024-08-27 at 6.29.15 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-08-27%20at%206.29.15%20PM.jpg)
 
-在 Unreal 專案中找到 Project Setiings>MetaXR>Mobile>Hand Tracking Support，將選項改成 C`ontrollers and Hands` 或 `Hands Only`
+在 Unreal 專案中找到 Project Settings>MetaXR>Mobile>Hand Tracking Support，將選項改成 `Controllers and Hands` 或 `Hands Only`
 
 ![screenshot 2024-08-27 at 6.30.11 PM](https://raw.githubusercontent.com/agin0634/DuriShen_DevNote/main/_Archives/Images/screenshot%202024-08-27%20at%206.30.11%20PM.jpg)
 <br>
